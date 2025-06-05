@@ -1,4 +1,5 @@
 import csv
+import json
 
 filename = "../src/csv/startup_issues.csv"
 
@@ -26,8 +27,8 @@ def main():
             d = {fields[0]: title, fields[1]: publisher, "url":get_url(title)}
             data.append(d)
             
-    for d in data:
-        print (d)
+    with open("startup_issues.json", 'w') as json_file:
+        json.dump(data, json_file, indent=2)
 
 
 if __name__ == "__main__":
