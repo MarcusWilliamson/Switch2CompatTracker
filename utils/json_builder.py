@@ -1,22 +1,20 @@
 import csv
 import json
 
-filename = "../src/csv/startup_issues.csv"
+files = [("assets/startup_issues.csv", "Startup issues"), ("assets/in-game_issues.csv", "In-game issues")]
+data = []
 
 def get_url(title):
-    # return ("https://www.nintendo.com/us/store/products/" + title.lower().replace(" ", "-").replace(":", "")
-    #        .replace("[","").replace("]","").replace("~","") + "-switch")
+    t = str.maketrans(" ", "-", ":]~!?/.'")  # happy pride
+    return ("https://www.nintendo.com/us/store/products/" + title.lower().replace(' - ', '-')
+            .replace('&', 'and').translate(t).replace('[', '-').replace('--', '-') + "-switch")
 
-    t = str.maketrans(" ", "-", ":[]~!?")  # happy pride
-    return "https://www.nintendo.com/us/store/products/" + title.lower().translate(t) + "-switch"
-
-def main():
-    data = []
+def generate(filename, group):
+    newData = []
     fields = []
 
-    with open(filename, mode='r') as file:
-        csv_reader = csv.reader(file)
-
+    with open(filename, mode='r') as csv_file:
+        csv_reader = csv.reader(csv_file)
         fields = next(csv_reader)
 
         for row in csv_reader:
@@ -24,11 +22,20 @@ def main():
             title = title.lstrip()
             publisher = publisher.rstrip()
 
-            d = {fields[0]: title, fields[1]: publisher, "url":get_url(title)}
-            data.append(d)
+            d = {fields[0]: title, fields[1]: publisher, "url":get_url(title), "group": group}
+            newData.append(d)
+    csv_file.close()
+    return newData
+
+def main():
+    data = []
+    for file in files:
+        data += generate(file[0], file[1])
             
-    with open("startup_issues.json", 'w') as json_file:
+    with open("../src/json/game_list.json", 'w') as json_file:
         json.dump(data, json_file, indent=2)
+    json_file.close()
+    print("Done")
 
 
 if __name__ == "__main__":

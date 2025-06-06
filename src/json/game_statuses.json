@@ -1,0 +1,1206 @@
+{
+  "title": "A Boy and His Blob Retro Collection",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "A Time Traveller's Guide To Past Delicacies",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Abyss Memory Fallen Angel and the Path of Magic",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Waiting on the title screen for around 30 seconds causes a problem. The user can continue past the title screen to avoid the problem."
+  ]
+}{
+  "title": "Aeterna Noctis",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Another Crab's Treasure",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives ASSAULT",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives Burger Time",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives Chack'n Pop",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives CRIME CITY",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives DRAGON SPIRIT",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives DRAGON SABER",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives EMPIRE CITY: 1931",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives FLIPULL",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives DIG DUG",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives GALAXIAN",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives GRADIUS III",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives METROCROSS",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives NEW RALLY-X",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives PAC-LAND",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives QIX",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives ROLLER JAMMER",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives ROLLING THUNDER",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives ROMPERS",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives SPACE SEEKER",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives The Genji and the Heike Clans",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives THE TOWER OF DRUAGA",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives XEVIOUS",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Assault Suit Leynos 2 Saturn Tribute",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Astral Flux",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Baseball Club",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Boot Hill Heroes",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Botany Manor",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Cats Hidden in Italy",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Chronicles of 2 Heroes: Amaterasu's Wrath",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Clock Tower: Rewind",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Crazy Strike Bowling EX",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Dadish 2",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Darksiders Genesis",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Dead by Daylight",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Everdream Valley",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Felix the Cat",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "fig.",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "FINAL FANTASY",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Flan",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "GRID Autosport",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "House Builder",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "I Got Isekai'd Into A Shmup",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "In My Shadow",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Inferno 2",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Gang Beasts",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Jurassic Park Classic Games Collection",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "KILL la KILL -IF",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Kosmokrats",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Killing Time: Resurrected",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Laboratory Rat Escape Simulator Pro",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Labyrinth of Galleria: The Moon Society",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Library Of Ruina",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Little Nightmares Complete Edition",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Malignant Survivors",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Manticore - Galaxy on Fire",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Mega Mall Story 2",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Monster Loves You Too!",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "NASCAR Rivals",
+  "status": "404"
+}{
+  "title": "NBA 2K18",
+  "status": "404"
+}{
+  "title": "NEKOPARA Vol.2",
+  "status": "404"
+}{
+  "title": "Nelly Cootalot: The Fowl Fleet",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Neverwinter Nights: Enhanced Edition",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "NieR:Automata The End of YoRHa Edition",
+  "status": "404"
+}{
+  "title": "Nights of Azure 2: Bride of the New Moon",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Nobody Saves the World",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Oddworld: Stranger's Wrath",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "OK K.O.! Let's Play Heroes",
+  "status": "404"
+}{
+  "title": "Onigo Hunter",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Palia",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Pineview Drive",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Plants vs. Zombies: Battle for Neighborville",
+  "status": "404"
+}{
+  "title": "Raiden III x MIKADO MANIAX",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Remothered: Tormented Fathers",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Rhapsody: Marl Kingdom Chronicles",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "RiMS Racing",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "River City Girls Zero",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Rocket League",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Roller Champions",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Saviors of Sapphire Wings / Stranger of Sword City Revisited",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "SENRAN KAGURA Reflexions",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Skulls of the Shogun: Bone-a-fide Edition",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Soul Dog TD",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "South of the Circle",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "South Park: The Fractured But Whole",
+  "status": "404"
+}{
+  "title": "Sportitions'24",
+  "status": "info_missing"
+}{
+  "title": "STAR WARS Episode I: Racer",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Strania -The Stella Machina- EX",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Super Neptunia RPG",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Taiko no Tatsujin: Rhythm Festival",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "TAITO Milestones",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "The Journey Down Trilogy",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "The Talos Principle: Deluxe Edition",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Tokyo Xanadu eX+",
+  "status": "404"
+}{
+  "title": "Touhou Gouyoku Ibun ~Sunken Fossil World",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Tricky Towers",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Trip World DX",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Trove",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Trover Saves the Universe",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "TT Isle of Man: Ride on the Edge 3",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "UNDER NIGHT IN-BIRTH Exe: Late[cl-r]",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Undernauts: Labyrinth of Yomi",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "V-Rally 4",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Warface: Clutch",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Warframe",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Warp Shift",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "What the Dub?!",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Where the Bees Make Honey",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Wolfenstein II: The New Colossus",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "WRC 9 The Official Game",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "YouTube",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Alan Wake Remastered",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Alien: Isolation",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives ORDYNE",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives PHELIOS",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives TETRIS THE ABSOLUTE THE GRAND MASTER 2 PLUS",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Arcade Archives TETRIS THE GRAND MASTER",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Asphalt Legends Unite",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Dadish",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Grid lines may appear on parts of the screen."
+  ]
+}{
+  "title": "Dex",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Dust: An Elysian Tail",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Elderand",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Factorio",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Fall Guys",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Family Chess",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Games Advent Calendar - 25 Days - 25 Surprises",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Godlike Burger",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Users may experience graphics problems in some areas."
+  ]
+}{
+  "title": "HARVESTELLA",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "HITMAN 3 - Cloud Version",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "HOT WHEELS UNLEASHED",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "JUST DANCE 2019",
+  "status": "404"
+}{
+  "title": "Klondike Solitaire",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Lovers in a Dangerous Spacetime",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Matchpoint - Tennis Championships",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Mega Man Legacy Collection",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "MotoGP21",
+  "status": "404"
+}{
+  "title": "My Brother Rabbit",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Neptunia X SENRAN KAGURA: Ninja Wars",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Noir Chronicles: City of Crime",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Overcooked! All You Can Eat",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Pilot Sports",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Pocoyo Party",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Port Royale 4",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "Raiden IV\u00c3\u2014MIKADO remix",
+  "status": "404"
+}{
+  "title": "Real Car Driving Simulator & Parking 2022 Games",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "S.N.I.P.E.R. - Hunter Scope",
+  "status": "404"
+}{
+  "title": "Saints Row IV: Re-Elected",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "Previously identified issues have been resolved with an update."
+  ]
+}{
+  "title": "SmileBASIC 4",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}{
+  "title": "Steven Universe: Save The Light",
+  "status": "404"
+}{
+  "title": "Street Fighter 30th Anniversary Collection",
+  "__typename": "Compatibility",
+  "status": "PLAYABLE",
+  "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+  "captionNote": null,
+  "details": [
+    "When playing against a Nintendo Switch\u00a02 user online, texture problems may appear on the Nintendo Switch user's player character."
+  ]
+}{
+  "title": "Stumble Guys",
+  "__typename": "Compatibility",
+  "status": "NOT_PLAYABLE",
+  "caption": "Unsupported \u2013 Problems with game progression have been found.",
+  "captionNote": null,
+  "details": []
+}
