@@ -1,20 +1,23 @@
 import csv
 import json
 
-files = [("assets/startup_issues.csv", "Startup issues"), ("assets/in-game_issues.csv", "In-game issues")]
+files = [("assets/progress_issues.csv", "Progress issues"), ("assets/updated.csv", "Updated")]
 data = []
 
+# Attempts to convert game title to eshop url
 def get_url(title):
-    t = str.maketrans(" ", "-", ":]~!?/.'")  # happy pride
+    t = str.maketrans(" .[:", "----", "]~!?/'#*")  # happy pride
     return ("https://www.nintendo.com/us/store/products/" + title.lower().replace(' - ', '-')
-            .replace('&', 'and').translate(t).replace('[', '-').replace('--', '-') + "-switch")
+            .replace('&', 'and').translate(t)#.replace('.','-').replace('[', '-')
+            .replace('+', '-plus') + "-switch").replace('--', '-')
 
+# Read from the csv file and convert to a dictionary
 def generate(filename, group):
     newData = []
     fields = []
 
     with open(filename, mode='r') as csv_file:
-        csv_reader = csv.reader(csv_file)
+        csv_reader = csv.reader(csv_file, delimiter="|")
         fields = next(csv_reader)
 
         for row in csv_reader:

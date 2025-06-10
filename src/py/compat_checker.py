@@ -1,14 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import timeit
 
+# Fetch game compatibility information from its eshop page.
 def fetch_game_status(game):
     request = requests.get(game['url'])
     soup = BeautifulSoup(request.content, 'html.parser')
     game_data = json.loads(soup.find(id="__NEXT_DATA__").text)
 
-    status = {'title': game['title']}
+    status = game.copy()
     if 'product' in game_data['props']['pageProps']['analytics']:
         sku = game_data['props']['pageProps']['analytics']['product']['sku']
         compatibility = (game_data['props']['pageProps']['initialApolloState']

@@ -1,932 +1,1016 @@
 [
   {
+    "title": "3 out of 10: Season One",
+    "publisher": "Terrible Posture Games",
+    "url": "https://www.nintendo.com/us/store/products/3-out-of-10-season-one-switch",
+    "group": "Progress issues"
+  },
+  {
     "title": "A Boy and His Blob Retro Collection",
     "publisher": "Ziggurat",
     "url": "https://www.nintendo.com/us/store/products/a-boy-and-his-blob-retro-collection-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
+  },
+  {
+    "title": "A Long Way Down",
+    "publisher": "Forever Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/a-long-way-down-switch",
+    "group": "Progress issues"
   },
   {
     "title": "A Time Traveller's Guide To Past Delicacies",
     "publisher": "Sometimes You",
     "url": "https://www.nintendo.com/us/store/products/a-time-travellers-guide-to-past-delicacies-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Abyss Memory Fallen Angel and the Path of Magic",
-    "publisher": "Byking",
-    "url": "https://www.nintendo.com/us/store/products/abyss-memory-fallen-angel-and-the-path-of-magic-switch",
-    "group": "Startup issues"
+    "title": "Aeon Must Die!",
+    "publisher": "Focus Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/aeon-must-die-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Aeterna Noctis",
     "publisher": "Aeternum Game Studios",
     "url": "https://www.nintendo.com/us/store/products/aeterna-noctis-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Another Crab's Treasure",
-    "publisher": "Aggro Crab Games",
-    "url": "https://www.nintendo.com/us/store/products/another-crabs-treasure-switch",
-    "group": "Startup issues"
+    "title": "Afterdream",
+    "publisher": "Feardemic",
+    "url": "https://www.nintendo.com/us/store/products/afterdream-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Arcade Archives ASSAULT",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-assault-switch",
-    "group": "Startup issues"
+    "title": "Aidan In Danger",
+    "publisher": "Brainium Games",
+    "url": "https://www.nintendo.com/us/store/products/aidan-in-danger-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Arcade Archives Burger Time",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-burger-time-switch",
-    "group": "Startup issues"
+    "title": "Amanda the Adventurer",
+    "publisher": "Dread XP",
+    "url": "https://www.nintendo.com/us/store/products/amanda-the-adventurer-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Arcade Archives Chack'n Pop",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-chackn-pop-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives CRIME CITY",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-crime-city-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives DRAGON SPIRIT",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-dragon-spirit-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives DRAGON SABER",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-dragon-saber-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives EMPIRE CITY: 1931",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-empire-city-1931-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives FLIPULL",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-flipull-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives DIG DUG",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-dig-dug-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives GALAXIAN",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-galaxian-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives GRADIUS III",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-gradius-iii-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives METROCROSS",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-metrocross-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives NEW RALLY-X",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-new-rally-x-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives PAC-LAND",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-pac-land-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives QIX",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-qix-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives ROLLER JAMMER",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-roller-jammer-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives ROLLING THUNDER",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-rolling-thunder-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives ROMPERS",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-rompers-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives SPACE SEEKER",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-space-seeker-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives The Genji and the Heike Clans",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-the-genji-and-the-heike-clans-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives THE TOWER OF DRUAGA",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-the-tower-of-druaga-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Arcade Archives XEVIOUS",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-xevious-switch",
-    "group": "Startup issues"
+    "title": "Arcade Party",
+    "publisher": "OddOneGames",
+    "url": "https://www.nintendo.com/us/store/products/arcade-party-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Assault Suit Leynos 2 Saturn Tribute",
     "publisher": "Clear River Games",
     "url": "https://www.nintendo.com/us/store/products/assault-suit-leynos-2-saturn-tribute-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
   },
   {
     "title": "Astral Flux",
     "publisher": "Mindscape",
     "url": "https://www.nintendo.com/us/store/products/astral-flux-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Baseball Club",
-    "publisher": "BoomBit Games",
-    "url": "https://www.nintendo.com/us/store/products/baseball-club-switch",
-    "group": "Startup issues"
+    "title": "Bacon Man: An Adventure",
+    "publisher": "Skymap Games",
+    "url": "https://www.nintendo.com/us/store/products/bacon-man-an-adventure-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Bill & Ted's Excellent Retro Collection",
+    "publisher": "Limited Run Games",
+    "url": "https://www.nintendo.com/us/store/products/bill-and-teds-excellent-retro-collection-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Bloodshore",
+    "publisher": "Wales Interactive",
+    "url": "https://www.nintendo.com/us/store/products/bloodshore-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Boot Hill Heroes",
     "publisher": "Experimental Gamer Studios",
     "url": "https://www.nintendo.com/us/store/products/boot-hill-heroes-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
+  },
+  {
+    "title": "Borderlands 3 Ultimate Edition",
+    "publisher": "Take-Two Interactive",
+    "url": "https://www.nintendo.com/us/store/products/borderlands-3-ultimate-edition-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Botany Manor",
     "publisher": "Whitethorn Games",
     "url": "https://www.nintendo.com/us/store/products/botany-manor-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Cats Hidden in Italy",
-    "publisher": "Travellin Cats",
-    "url": "https://www.nintendo.com/us/store/products/cats-hidden-in-italy-switch",
-    "group": "Startup issues"
+    "title": "Chickens Madness",
+    "publisher": "Vikong",
+    "url": "https://www.nintendo.com/us/store/products/chickens-madness-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Chronicles of 2 Heroes: Amaterasu's Wrath",
     "publisher": "Catness Game",
     "url": "https://www.nintendo.com/us/store/products/chronicles-of-2-heroes-amaterasus-wrath-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
+  },
+  {
+    "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+    "publisher": "SQUARE ENIX",
+    "url": "https://www.nintendo.com/us/store/products/chrono-cross-the-radical-dreamers-edition-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Clock Tower: Rewind",
     "publisher": "WayForward",
     "url": "https://www.nintendo.com/us/store/products/clock-tower-rewind-switch",
-    "group": "Startup issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Crazy Strike Bowling EX",
-    "publisher": "CORECELL",
-    "url": "https://www.nintendo.com/us/store/products/crazy-strike-bowling-ex-switch",
-    "group": "Startup issues"
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "publisher": "Activision",
+    "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-n-sane-trilogy-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Dadish 2",
-    "publisher": "Thomas K Young",
-    "url": "https://www.nintendo.com/us/store/products/dadish-2-switch",
-    "group": "Startup issues"
+    "title": "Crypt of the NecroDancer: Nintendo Switch Edition",
+    "publisher": "Brace Yourself Games",
+    "url": "https://www.nintendo.com/us/store/products/crypt-of-the-necrodancer-nintendo-switch-edition-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Darksiders Genesis",
-    "publisher": "THQ Nordic",
-    "url": "https://www.nintendo.com/us/store/products/darksiders-genesis-switch",
-    "group": "Startup issues"
+    "title": "Dark Nights with Poe and Munro",
+    "publisher": "D'Avekki Studios",
+    "url": "https://www.nintendo.com/us/store/products/dark-nights-with-poe-and-munro-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Dead by Daylight",
-    "publisher": "Behaviour Interactive",
-    "url": "https://www.nintendo.com/us/store/products/dead-by-daylight-switch",
-    "group": "Startup issues"
+    "title": "DC Universe Online",
+    "publisher": "Daybreak Game Company",
+    "url": "https://www.nintendo.com/us/store/products/dc-universe-online-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Everdream Valley",
-    "publisher": "Untold Tales",
-    "url": "https://www.nintendo.com/us/store/products/everdream-valley-switch",
-    "group": "Startup issues"
+    "title": "Dragon's Lair Trilogy",
+    "publisher": "Digital Leisure",
+    "url": "https://www.nintendo.com/us/store/products/dragons-lair-trilogy-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Felix the Cat",
-    "publisher": "KONAMI",
-    "url": "https://www.nintendo.com/us/store/products/felix-the-cat-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "fig.",
-    "publisher": "Take IT Studio!",
-    "url": "https://www.nintendo.com/us/store/products/fig-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "FINAL FANTASY",
-    "publisher": "SQUARE ENIX",
-    "url": "https://www.nintendo.com/us/store/products/final-fantasy-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Flan",
-    "publisher": "AnelaGamesStudio",
-    "url": "https://www.nintendo.com/us/store/products/flan-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "GRID Autosport",
-    "publisher": "Codemasters",
-    "url": "https://www.nintendo.com/us/store/products/grid-autosport-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "House Builder",
-    "publisher": "Console Labs",
-    "url": "https://www.nintendo.com/us/store/products/house-builder-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "I Got Isekai'd Into A Shmup",
-    "publisher": "TOMAGameStudio",
-    "url": "https://www.nintendo.com/us/store/products/i-got-isekaid-into-a-shmup-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "In My Shadow",
-    "publisher": "OverGamez",
-    "url": "https://www.nintendo.com/us/store/products/in-my-shadow-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Inferno 2",
-    "publisher": "2Awesome Studio",
-    "url": "https://www.nintendo.com/us/store/products/inferno-2-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Gang Beasts",
-    "publisher": "Boneloaf",
-    "url": "https://www.nintendo.com/us/store/products/gang-beasts-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Jurassic Park Classic Games Collection",
-    "publisher": "Limited Run Games",
-    "url": "https://www.nintendo.com/us/store/products/jurassic-park-classic-games-collection-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "KILL la KILL -IF",
-    "publisher": "ARC SYSTEM WORKS",
-    "url": "https://www.nintendo.com/us/store/products/kill-la-kill-if-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Kosmokrats",
-    "publisher": "Modern Wolf",
-    "url": "https://www.nintendo.com/us/store/products/kosmokrats-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Killing Time: Resurrected",
-    "publisher": "Nightdive Studios",
-    "url": "https://www.nintendo.com/us/store/products/killing-time-resurrected-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Laboratory Rat Escape Simulator Pro",
-    "publisher": "Clockwork Moon",
-    "url": "https://www.nintendo.com/us/store/products/laboratory-rat-escape-simulator-pro-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Labyrinth of Galleria: The Moon Society",
-    "publisher": "NIS America",
-    "url": "https://www.nintendo.com/us/store/products/labyrinth-of-galleria-the-moon-society-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Library Of Ruina",
-    "publisher": "ARC SYSTEM WORKS",
-    "url": "https://www.nintendo.com/us/store/products/library-of-ruina-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Little Nightmares Complete Edition",
-    "publisher": "BANDAI NAMCO Entertainment",
-    "url": "https://www.nintendo.com/us/store/products/little-nightmares-complete-edition-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Malignant Survivors",
-    "publisher": "Brain Connected",
-    "url": "https://www.nintendo.com/us/store/products/malignant-survivors-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Manticore - Galaxy on Fire",
-    "publisher": "PLAION",
-    "url": "https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Mega Mall Story 2",
-    "publisher": "Kairosoft",
-    "url": "https://www.nintendo.com/us/store/products/mega-mall-story-2-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Monster Loves You Too!",
-    "publisher": "Radial Games",
-    "url": "https://www.nintendo.com/us/store/products/monster-loves-you-too-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "NASCAR Rivals",
-    "publisher": "Motorsport Games",
-    "url": "https://www.nintendo.com/us/store/products/nascar-rivals-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "NBA 2K18",
-    "publisher": "2K",
-    "url": "https://www.nintendo.com/us/store/products/nba-2k18-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "NEKOPARA Vol.2",
-    "publisher": "CFK",
-    "url": "https://www.nintendo.com/us/store/products/nekopara-vol2-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Nelly Cootalot: The Fowl Fleet",
-    "publisher": "ASHGAMES",
-    "url": "https://www.nintendo.com/us/store/products/nelly-cootalot-the-fowl-fleet-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Neverwinter Nights: Enhanced Edition",
-    "publisher": "Beamdog",
-    "url": "https://www.nintendo.com/us/store/products/neverwinter-nights-enhanced-edition-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "NieR:Automata The End of YoRHa Edition",
-    "publisher": "SQUARE ENIX",
-    "url": "https://www.nintendo.com/us/store/products/nierautomata-the-end-of-yorha-edition-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Nights of Azure 2: Bride of the New Moon",
-    "publisher": "KOEI TECMO AMERICA",
-    "url": "https://www.nintendo.com/us/store/products/nights-of-azure-2-bride-of-the-new-moon-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Nobody Saves the World",
-    "publisher": "DrinkBox Studios",
-    "url": "https://www.nintendo.com/us/store/products/nobody-saves-the-world-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Oddworld: Stranger's Wrath",
-    "publisher": "Oddworld Inhabitants",
-    "url": "https://www.nintendo.com/us/store/products/oddworld-strangers-wrath-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "OK K.O.! Let's Play Heroes",
-    "publisher": "Cartoon Network Games",
-    "url": "https://www.nintendo.com/us/store/products/ok-ko-lets-play-heroes-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Onigo Hunter",
-    "publisher": "KEMCO",
-    "url": "https://www.nintendo.com/us/store/products/onigo-hunter-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Palia",
-    "publisher": "Singularity 6",
-    "url": "https://www.nintendo.com/us/store/products/palia-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Pineview Drive",
-    "publisher": "UIG Entertainment",
-    "url": "https://www.nintendo.com/us/store/products/pineview-drive-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Plants vs. Zombies: Battle for Neighborville",
-    "publisher": "Electronic Arts",
-    "url": "https://www.nintendo.com/us/store/products/plants-vs-zombies-battle-for-neighborville-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Raiden III x MIKADO MANIAX",
-    "publisher": "NIS America",
-    "url": "https://www.nintendo.com/us/store/products/raiden-iii-x-mikado-maniax-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Remothered: Tormented Fathers",
-    "publisher": "Stormind Games",
-    "url": "https://www.nintendo.com/us/store/products/remothered-tormented-fathers-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Rhapsody: Marl Kingdom Chronicles",
-    "publisher": "NIS America",
-    "url": "https://www.nintendo.com/us/store/products/rhapsody-marl-kingdom-chronicles-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "RiMS Racing",
-    "publisher": "Nacon",
-    "url": "https://www.nintendo.com/us/store/products/rims-racing-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "River City Girls Zero",
-    "publisher": "WayForward",
-    "url": "https://www.nintendo.com/us/store/products/river-city-girls-zero-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Rocket League",
-    "publisher": "Epic Games",
-    "url": "https://www.nintendo.com/us/store/products/rocket-league-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Roller Champions",
-    "publisher": "Ubisoft",
-    "url": "https://www.nintendo.com/us/store/products/roller-champions-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Saviors of Sapphire Wings / Stranger of Sword City Revisited",
-    "publisher": "NIS America",
-    "url": "https://www.nintendo.com/us/store/products/saviors-of-sapphire-wings-stranger-of-sword-city-revisited-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "SENRAN KAGURA Reflexions",
-    "publisher": "Marvelous (XSEED)",
-    "url": "https://www.nintendo.com/us/store/products/senran-kagura-reflexions-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Skulls of the Shogun: Bone-a-fide Edition",
-    "publisher": "Golem Entertainment",
-    "url": "https://www.nintendo.com/us/store/products/skulls-of-the-shogun-bone-a-fide-edition-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Soul Dog TD",
-    "publisher": "Waku Waku Games",
-    "url": "https://www.nintendo.com/us/store/products/soul-dog-td-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "South of the Circle",
-    "publisher": "11 bit studios",
-    "url": "https://www.nintendo.com/us/store/products/south-of-the-circle-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "South Park: The Fractured But Whole",
-    "publisher": "Ubisoft",
-    "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Sportitions'24",
-    "publisher": "FuriouSoftPhoenix",
-    "url": "https://www.nintendo.com/us/store/products/sportitions24-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "STAR WARS Episode I: Racer",
-    "publisher": "Aspyr",
-    "url": "https://www.nintendo.com/us/store/products/star-wars-episode-i-racer-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Strania -The Stella Machina- EX",
-    "publisher": "G.rev",
-    "url": "https://www.nintendo.com/us/store/products/strania-the-stella-machina-ex-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Super Neptunia RPG",
-    "publisher": "Idea Factory",
-    "url": "https://www.nintendo.com/us/store/products/super-neptunia-rpg-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Taiko no Tatsujin: Rhythm Festival",
-    "publisher": "BANDAI NAMCO Entertainment",
-    "url": "https://www.nintendo.com/us/store/products/taiko-no-tatsujin-rhythm-festival-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "TAITO Milestones",
-    "publisher": "ININ Games",
-    "url": "https://www.nintendo.com/us/store/products/taito-milestones-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "The Journey Down Trilogy",
-    "publisher": "BlitWorks",
-    "url": "https://www.nintendo.com/us/store/products/the-journey-down-trilogy-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "The Talos Principle: Deluxe Edition",
-    "publisher": "Devolver Digital",
-    "url": "https://www.nintendo.com/us/store/products/the-talos-principle-deluxe-edition-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Tokyo Xanadu eX+",
-    "publisher": "Aksys Games",
-    "url": "https://www.nintendo.com/us/store/products/tokyo-xanadu-ex+-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Touhou Gouyoku Ibun ~Sunken Fossil World",
-    "publisher": "Phoenixx",
-    "url": "https://www.nintendo.com/us/store/products/touhou-gouyoku-ibun-sunken-fossil-world-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Tricky Towers",
-    "publisher": "WeirdBeard",
-    "url": "https://www.nintendo.com/us/store/products/tricky-towers-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Trip World DX",
-    "publisher": "SUNSOFT",
-    "url": "https://www.nintendo.com/us/store/products/trip-world-dx-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Trove",
-    "publisher": "gamigo US",
-    "url": "https://www.nintendo.com/us/store/products/trove-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Trover Saves the Universe",
-    "publisher": "Squanch Games",
-    "url": "https://www.nintendo.com/us/store/products/trover-saves-the-universe-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "TT Isle of Man: Ride on the Edge 3",
-    "publisher": "Nacon",
-    "url": "https://www.nintendo.com/us/store/products/tt-isle-of-man-ride-on-the-edge-3-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "UNDER NIGHT IN-BIRTH Exe: Late[cl-r]",
-    "publisher": "Aksys Games",
-    "url": "https://www.nintendo.com/us/store/products/under-night-in-birth-exe-late-cl-r-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Undernauts: Labyrinth of Yomi",
-    "publisher": "Aksys Games",
-    "url": "https://www.nintendo.com/us/store/products/undernauts-labyrinth-of-yomi-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "V-Rally 4",
-    "publisher": "Nacon",
-    "url": "https://www.nintendo.com/us/store/products/v-rally-4-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Warface: Clutch",
-    "publisher": "MY.GAMES",
-    "url": "https://www.nintendo.com/us/store/products/warface-clutch-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Warframe",
-    "publisher": "Digital Extremes",
-    "url": "https://www.nintendo.com/us/store/products/warframe-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Warp Shift",
-    "publisher": "Kyrkudden",
-    "url": "https://www.nintendo.com/us/store/products/warp-shift-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "What the Dub?!",
-    "publisher": "Wide Right Interactive",
-    "url": "https://www.nintendo.com/us/store/products/what-the-dub-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Where the Bees Make Honey",
-    "publisher": "Whitethorn Games",
-    "url": "https://www.nintendo.com/us/store/products/where-the-bees-make-honey-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Wolfenstein II: The New Colossus",
-    "publisher": "Bethesda",
-    "url": "https://www.nintendo.com/us/store/products/wolfenstein-ii-the-new-colossus-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "WRC 9 The Official Game",
-    "publisher": "Nacon",
-    "url": "https://www.nintendo.com/us/store/products/wrc-9-the-official-game-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "YouTube",
-    "publisher": "Google",
-    "url": "https://www.nintendo.com/us/store/products/youtube-switch",
-    "group": "Startup issues"
-  },
-  {
-    "title": "Alan Wake Remastered",
-    "publisher": "Epic Games",
-    "url": "https://www.nintendo.com/us/store/products/alan-wake-remastered-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Alien: Isolation",
-    "publisher": "SEGA EUR",
-    "url": "https://www.nintendo.com/us/store/products/alien-isolation-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Arcade Archives ORDYNE",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-ordyne-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Arcade Archives PHELIOS",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-phelios-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Arcade Archives TETRIS THE ABSOLUTE THE GRAND MASTER 2 PLUS",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-tetris-the-absolute-the-grand-master-2-plus-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Arcade Archives TETRIS THE GRAND MASTER",
-    "publisher": "HAMSTER",
-    "url": "https://www.nintendo.com/us/store/products/arcade-archives-tetris-the-grand-master-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Asphalt Legends Unite",
-    "publisher": "Gameloft",
-    "url": "https://www.nintendo.com/us/store/products/asphalt-legends-unite-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Dadish",
-    "publisher": "Thomas K Young",
-    "url": "https://www.nintendo.com/us/store/products/dadish-switch",
-    "group": "In-game issues"
-  },
-  {
-    "title": "Dex",
-    "publisher": "QubicGames",
-    "url": "https://www.nintendo.com/us/store/products/dex-switch",
-    "group": "In-game issues"
+    "title": "Dreamwalker",
+    "publisher": "Code Mystics",
+    "url": "https://www.nintendo.com/us/store/products/dreamwalker-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Dust: An Elysian Tail",
     "publisher": "Humble Hearts",
     "url": "https://www.nintendo.com/us/store/products/dust-an-elysian-tail-switch",
-    "group": "In-game issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Elderand",
-    "publisher": "Graffiti Games",
-    "url": "https://www.nintendo.com/us/store/products/elderand-switch",
-    "group": "In-game issues"
+    "title": "Escape from Chernobyl",
+    "publisher": "Atypical Games",
+    "url": "https://www.nintendo.com/us/store/products/escape-from-chernobyl-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Factorio",
-    "publisher": "Wube Software",
-    "url": "https://www.nintendo.com/us/store/products/factorio-switch",
-    "group": "In-game issues"
+    "title": "fig.",
+    "publisher": "Take IT Studio!",
+    "url": "https://www.nintendo.com/us/store/products/fig-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Fall Guys",
-    "publisher": "Epic Games",
-    "url": "https://www.nintendo.com/us/store/products/fall-guys-switch",
-    "group": "In-game issues"
+    "title": "Flan",
+    "publisher": "AnelaGamesStudio",
+    "url": "https://www.nintendo.com/us/store/products/flan-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Family Chess",
-    "publisher": "RedDeer.Games",
-    "url": "https://www.nintendo.com/us/store/products/family-chess-switch",
-    "group": "In-game issues"
+    "title": "Forgotten Memories",
+    "publisher": "Psychose Interactive",
+    "url": "https://www.nintendo.com/us/store/products/forgotten-memories-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Games Advent Calendar - 25 Days - 25 Surprises",
-    "publisher": "Mindscape",
-    "url": "https://www.nintendo.com/us/store/products/games-advent-calendar-25-days-25-surprises-switch",
-    "group": "In-game issues"
+    "title": "Gang Beasts",
+    "publisher": "Boneloaf",
+    "url": "https://www.nintendo.com/us/store/products/gang-beasts-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Godlike Burger",
-    "publisher": "Daedalic Entertainment",
-    "url": "https://www.nintendo.com/us/store/products/godlike-burger-switch",
-    "group": "In-game issues"
+    "title": "Gelly Break Deluxe",
+    "publisher": "ByteRockers Games",
+    "url": "https://www.nintendo.com/us/store/products/gelly-break-deluxe-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "HARVESTELLA",
-    "publisher": "SQUARE ENIX",
-    "url": "https://www.nintendo.com/us/store/products/harvestella-switch",
-    "group": "In-game issues"
+    "title": "GRID Autosport",
+    "publisher": "Codemasters",
+    "url": "https://www.nintendo.com/us/store/products/grid-autosport-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "GUILTY GEAR XX ACCENT CORE PLUS R",
+    "publisher": "ARC SYSTEM WORKS",
+    "url": "https://www.nintendo.com/us/store/products/guilty-gear-xx-accent-core-plus-r-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Happy Hotel",
+    "publisher": "Nyakuza Games",
+    "url": "https://www.nintendo.com/us/store/products/happy-hotel-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Highrise Heroes: Word Challenge",
+    "publisher": "Fallen Tree Games",
+    "url": "https://www.nintendo.com/us/store/products/highrise-heroes-word-challenge-switch",
+    "group": "Progress issues"
   },
   {
     "title": "HITMAN 3 - Cloud Version",
     "publisher": "IO Interactive",
     "url": "https://www.nintendo.com/us/store/products/hitman-3-cloud-version-switch",
-    "group": "In-game issues"
+    "group": "Progress issues"
   },
   {
-    "title": "HOT WHEELS UNLEASHED",
-    "publisher": "Milestone",
-    "url": "https://www.nintendo.com/us/store/products/hot-wheels-unleashed-switch",
-    "group": "In-game issues"
+    "title": "House Builder",
+    "publisher": "Console Labs",
+    "url": "https://www.nintendo.com/us/store/products/house-builder-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "JUST DANCE 2019",
-    "publisher": "Ubisoft",
-    "url": "https://www.nintendo.com/us/store/products/just-dance-2019-switch",
-    "group": "In-game issues"
+    "title": "In My Shadow",
+    "publisher": "OverGamez",
+    "url": "https://www.nintendo.com/us/store/products/in-my-shadow-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Klondike Solitaire",
-    "publisher": "Baltoro Minis",
-    "url": "https://www.nintendo.com/us/store/products/klondike-solitaire-switch",
-    "group": "In-game issues"
+    "title": "Inferno 2",
+    "publisher": "2Awesome Studio",
+    "url": "https://www.nintendo.com/us/store/products/inferno-2-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Lovers in a Dangerous Spacetime",
-    "publisher": "Asteroid Base",
-    "url": "https://www.nintendo.com/us/store/products/lovers-in-a-dangerous-spacetime-switch",
-    "group": "In-game issues"
+    "title": "INSTANT Chef Party",
+    "publisher": "MAXIMUM ENT FRANCE",
+    "url": "https://www.nintendo.com/us/store/products/instant-chef-party-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Matchpoint - Tennis Championships",
-    "publisher": "KalypsoMediaGroup",
-    "url": "https://www.nintendo.com/us/store/products/matchpoint-tennis-championships-switch",
-    "group": "In-game issues"
+    "title": "Jurassic Park Classic Games Collection",
+    "publisher": "Limited Run Games",
+    "url": "https://www.nintendo.com/us/store/products/jurassic-park-classic-games-collection-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Mega Man Legacy Collection",
+    "title": "KarmaZoo",
+    "publisher": "Devolver Digital",
+    "url": "https://www.nintendo.com/us/store/products/karmazoo-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "KILL la KILL -IF",
+    "publisher": "ARC SYSTEM WORKS",
+    "url": "https://www.nintendo.com/us/store/products/kill-la-kill-if-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Killing Time: Resurrected",
+    "publisher": "Nightdive Studios",
+    "url": "https://www.nintendo.com/us/store/products/killing-time-resurrected-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Laboratory Rat Escape Simulator Pro",
+    "publisher": "Clockwork Moon",
+    "url": "https://www.nintendo.com/us/store/products/laboratory-rat-escape-simulator-pro-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Labyrinth of Galleria: The Moon Society",
+    "publisher": "NIS America",
+    "url": "https://www.nintendo.com/us/store/products/labyrinth-of-galleria-the-moon-society-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Layer Section & Galactic Attack S-Tribute",
+    "publisher": "City Connection",
+    "url": "https://www.nintendo.com/us/store/products/layer-section-and-galactic-attack-s-tribute-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Library Of Ruina",
+    "publisher": "ARC SYSTEM WORKS",
+    "url": "https://www.nintendo.com/us/store/products/library-of-ruina-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Malignant Survivors",
+    "publisher": "Brain Connected",
+    "url": "https://www.nintendo.com/us/store/products/malignant-survivors-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Manticore - Galaxy on Fire",
+    "publisher": "PLAION",
+    "url": "https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
     "publisher": "CAPCOM",
-    "url": "https://www.nintendo.com/us/store/products/mega-man-legacy-collection-switch",
-    "group": "In-game issues"
+    "url": "https://www.nintendo.com/us/store/products/marvel-vs-capcom-fighting-collection-arcade-classics-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "MotoGP21",
-    "publisher": "Milestone",
-    "url": "https://www.nintendo.com/us/store/products/motogp21-switch",
-    "group": "In-game issues"
+    "title": "Mega Mall Story 2",
+    "publisher": "Kairosoft",
+    "url": "https://www.nintendo.com/us/store/products/mega-mall-story-2-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "My Brother Rabbit",
-    "publisher": "Forever Entertainment",
-    "url": "https://www.nintendo.com/us/store/products/my-brother-rabbit-switch",
-    "group": "In-game issues"
+    "title": "Meganoid",
+    "publisher": "Orange Pixel",
+    "url": "https://www.nintendo.com/us/store/products/meganoid-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Neptunia X SENRAN KAGURA: Ninja Wars",
-    "publisher": "Idea Factory",
-    "url": "https://www.nintendo.com/us/store/products/neptunia-x-senran-kagura-ninja-wars-switch",
-    "group": "In-game issues"
+    "title": "Megaton Rainfall",
+    "publisher": "Pentadimensional",
+    "url": "https://www.nintendo.com/us/store/products/megaton-rainfall-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Noir Chronicles: City of Crime",
-    "publisher": "Artifex Mundi",
-    "url": "https://www.nintendo.com/us/store/products/noir-chronicles-city-of-crime-switch",
-    "group": "In-game issues"
+    "title": "Mia and me - Magic Friends",
+    "publisher": "TREVA",
+    "url": "https://www.nintendo.com/us/store/products/mia-and-me-magic-friends-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Minigolf Adventure",
+    "publisher": "Revulo Games",
+    "url": "https://www.nintendo.com/us/store/products/minigolf-adventure-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "MODEL Debut3 #nicola",
+    "publisher": "FURYU Corporation",
+    "url": "https://www.nintendo.com/us/store/products/model-debut3-nicola-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Mortal Kombat 1",
+    "publisher": "WB Games",
+    "url": "https://www.nintendo.com/us/store/products/mortal-kombat-1-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "My Memory of Us",
+    "publisher": "Crunching Koalas",
+    "url": "https://www.nintendo.com/us/store/products/my-memory-of-us-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "NASCAR Rivals",
+    "publisher": "Motorsport Games",
+    "url": "https://www.nintendo.com/us/store/products/nascar-rivals-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "NEKOPARA Vol.1",
+    "publisher": "CFK",
+    "url": "https://www.nintendo.com/us/store/products/nekopara-vol-1-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "NEKOPARA Vol.2",
+    "publisher": "CFK",
+    "url": "https://www.nintendo.com/us/store/products/nekopara-vol-2-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Neverwinter Nights: Enhanced Edition",
+    "publisher": "Beamdog",
+    "url": "https://www.nintendo.com/us/store/products/neverwinter-nights-enhanced-edition-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "NieR:Automata The End of YoRHa Edition",
+    "publisher": "SQUARE ENIX",
+    "url": "https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Ninja Five-O",
+    "publisher": "KONAMI",
+    "url": "https://www.nintendo.com/us/store/products/ninja-five-o-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Ninjala",
+    "publisher": "GUNGHOONLINE",
+    "url": "https://www.nintendo.com/us/store/products/ninjala-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Nobody Saves the World",
+    "publisher": "DrinkBox Studios",
+    "url": "https://www.nintendo.com/us/store/products/nobody-saves-the-world-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Oddworld: Stranger's Wrath",
+    "publisher": "Oddworld Inhabitants",
+    "url": "https://www.nintendo.com/us/store/products/oddworld-strangers-wrath-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "OK K.O.! Let's Play Heroes",
+    "publisher": "Cartoon Network Games",
+    "url": "https://www.nintendo.com/us/store/products/ok-k-o-lets-play-heroes-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Otto",
+    "publisher": "34BigThings",
+    "url": "https://www.nintendo.com/us/store/products/otto-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Overcooked! All You Can Eat",
     "publisher": "Team17",
     "url": "https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch",
-    "group": "In-game issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Pilot Sports",
-    "publisher": "Z-Software",
-    "url": "https://www.nintendo.com/us/store/products/pilot-sports-switch",
-    "group": "In-game issues"
+    "title": "Overdriven Reloaded: Special Edition",
+    "publisher": "TOMAGameStudio",
+    "url": "https://www.nintendo.com/us/store/products/overdriven-reloaded-special-edition-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Pocoyo Party",
-    "publisher": "RECOTECHNOLOGY",
-    "url": "https://www.nintendo.com/us/store/products/pocoyo-party-switch",
-    "group": "In-game issues"
+    "title": "Overwatch 2",
+    "publisher": "Blizzard Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/overwatch-2-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Port Royale 4",
-    "publisher": "KalypsoMediaGroup",
-    "url": "https://www.nintendo.com/us/store/products/port-royale-4-switch",
-    "group": "In-game issues"
+    "title": "Plants vs. Zombies: Battle for Neighborville Complete Edition",
+    "publisher": "Electronic Arts",
+    "url": "https://www.nintendo.com/us/store/products/plants-vs-zombies-battle-for-neighborville-complete-edition-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Raiden IV\u00c3\u2014MIKADO remix",
+    "title": "Quell Memento",
+    "publisher": "Fallen Tree Games",
+    "url": "https://www.nintendo.com/us/store/products/quell-memento-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Quell Zen",
+    "publisher": "Fallen Tree Games",
+    "url": "https://www.nintendo.com/us/store/products/quell-zen-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Quick Race",
+    "publisher": "SOURCE BYTE",
+    "url": "https://www.nintendo.com/us/store/products/quick-race-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Radiation City",
+    "publisher": "Atypical Games",
+    "url": "https://www.nintendo.com/us/store/products/radiation-city-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Raiden III x MIKADO MANIAX",
+    "publisher": "NIS America",
+    "url": "https://www.nintendo.com/us/store/products/raiden-iii-x-mikado-maniax-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Raiden IV x MIKADO remix",
     "publisher": "UFO Interactive",
-    "url": "https://www.nintendo.com/us/store/products/raiden-iv\u00e3\u2014mikado-remix-switch",
-    "group": "In-game issues"
+    "url": "https://www.nintendo.com/us/store/products/raiden-iv-x-mikado-remix-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Real Car Driving Simulator & Parking 2022 Games",
-    "publisher": "PublishMe",
-    "url": "https://www.nintendo.com/us/store/products/real-car-driving-simulator-and-parking-2022-games-switch",
-    "group": "In-game issues"
+    "title": "Remothered: Tormented Fathers",
+    "publisher": "Soedesco",
+    "url": "https://www.nintendo.com/us/store/products/remothered-tormented-fathers-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "S.N.I.P.E.R. - Hunter Scope",
-    "publisher": "Baltoro Games",
-    "url": "https://www.nintendo.com/us/store/products/sniper-hunter-scope-switch",
-    "group": "In-game issues"
+    "title": "Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes",
+    "publisher": "Golem Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Saints Row IV: Re-Elected",
-    "publisher": "PLAION",
-    "url": "https://www.nintendo.com/us/store/products/saints-row-iv-re-elected-switch",
-    "group": "In-game issues"
+    "title": "RICO",
+    "publisher": "Thunderful Games",
+    "url": "https://www.nintendo.com/us/store/products/rico-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "RiffTrax: The Game",
+    "publisher": "Wide Right Interactive",
+    "url": "https://www.nintendo.com/us/store/products/rifftrax-the-game-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "River City Girls Zero",
+    "publisher": "WayForward",
+    "url": "https://www.nintendo.com/us/store/products/river-city-girls-zero-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Roller Champions",
+    "publisher": "Ubisoft",
+    "url": "https://www.nintendo.com/us/store/products/roller-champions-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Root Double -Before Crime * After Days- Xtend Edition",
+    "publisher": "Sekai Games",
+    "url": "https://www.nintendo.com/us/store/products/root-double-before-crime-after-days-xtend-edition-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Saviors of Sapphire Wings / Stranger of Sword City Revisited",
+    "publisher": "NIS America",
+    "url": "https://www.nintendo.com/us/store/products/saviors-of-sapphire-wings-stranger-of-sword-city-revisited-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Secret Neighbor",
+    "publisher": "tinyBuild Games",
+    "url": "https://www.nintendo.com/us/store/products/secret-neighbor-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Skies Above",
+    "publisher": "Flynns Arcade",
+    "url": "https://www.nintendo.com/us/store/products/skies-above-switch",
+    "group": "Progress issues"
   },
   {
     "title": "SmileBASIC 4",
     "publisher": "SmileBoom",
     "url": "https://www.nintendo.com/us/store/products/smilebasic-4-switch",
-    "group": "In-game issues"
+    "group": "Progress issues"
   },
   {
-    "title": "Steven Universe: Save The Light",
-    "publisher": "Cartoon Network Games",
-    "url": "https://www.nintendo.com/us/store/products/steven-universe-save-the-light-switch",
-    "group": "In-game issues"
+    "title": "Soul Dog TD",
+    "publisher": "Waku Waku Games",
+    "url": "https://www.nintendo.com/us/store/products/soul-dog-td-switch",
+    "group": "Progress issues"
   },
   {
-    "title": "Street Fighter 30th Anniversary Collection",
-    "publisher": "CAPCOM",
-    "url": "https://www.nintendo.com/us/store/products/street-fighter-30th-anniversary-collection-switch",
-    "group": "In-game issues"
+    "title": "South of the Circle",
+    "publisher": "11 bit studios",
+    "url": "https://www.nintendo.com/us/store/products/south-of-the-circle-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "South Park: The Fractured but Whole - Standard Edition",
+    "publisher": "Ubisoft",
+    "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-standard-edition-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "STAR WARS Republic Commando",
+    "publisher": "Aspyr",
+    "url": "https://www.nintendo.com/us/store/products/star-wars-republic-commando-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "STAR WARS: Knights of the Old Republic II: The Sith Lords",
+    "publisher": "Aspyr",
+    "url": "https://www.nintendo.com/us/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Stranded Sails - Explorers of the Cursed Islands",
+    "publisher": "Rokaplay",
+    "url": "https://www.nintendo.com/us/store/products/stranded-sails-explorers-of-the-cursed-islands-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Strania -The Stella Machina- EX",
+    "publisher": "G.rev",
+    "url": "https://www.nintendo.com/us/store/products/strania-the-stella-machina-ex-switch",
+    "group": "Progress issues"
   },
   {
     "title": "Stumble Guys",
     "publisher": "Scopely",
     "url": "https://www.nintendo.com/us/store/products/stumble-guys-switch",
-    "group": "In-game issues"
+    "group": "Progress issues"
+  },
+  {
+    "title": "Super Mega Baseball 4",
+    "publisher": "Electronic Arts",
+    "url": "https://www.nintendo.com/us/store/products/super-mega-baseball-4-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "The Final Station",
+    "publisher": "tinyBuild Games",
+    "url": "https://www.nintendo.com/us/store/products/the-final-station-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "The Mean Greens - Plastic Warfare",
+    "publisher": "Virtual Basement",
+    "url": "https://www.nintendo.com/us/store/products/the-mean-greens-plastic-warfare-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "The Wild Case",
+    "publisher": "Maxim Ryadchik",
+    "url": "https://www.nintendo.com/us/store/products/the-wild-case-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "They Bleed Pixels",
+    "publisher": "Spooky Squid Games Incorporated",
+    "url": "https://www.nintendo.com/us/store/products/they-bleed-pixels-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "This War of Mine: Complete Edition",
+    "publisher": "11 bit studios",
+    "url": "https://www.nintendo.com/us/store/products/this-war-of-mine-complete-edition-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Timespinner",
+    "publisher": "Lunar Ray Games",
+    "url": "https://www.nintendo.com/us/store/products/timespinner-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Tiny Lands",
+    "publisher": "naptime.games",
+    "url": "https://www.nintendo.com/us/store/products/tiny-lands-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Tokyo Xanadu eX+",
+    "publisher": "Aksys Games",
+    "url": "https://www.nintendo.com/us/store/products/tokyo-xanadu-ex-plus-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Tomba! Special Edition",
+    "publisher": "Limited Run Games",
+    "url": "https://www.nintendo.com/us/store/products/tomba-special-edition-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 1 + 2",
+    "publisher": "Activision",
+    "url": "https://www.nintendo.com/us/store/products/tony-hawks-pro-skater-1-plus-2-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Touhou Genso Wanderer Reloaded",
+    "publisher": "NIS America",
+    "url": "https://www.nintendo.com/us/store/products/touhou-genso-wanderer-reloaded-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World.",
+    "publisher": "Phoenixx",
+    "url": "https://www.nintendo.com/us/store/products/touhou-gouyoku-ibun-sunken-fossil-world-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Trenga Unlimited",
+    "publisher": "Flux Games",
+    "url": "https://www.nintendo.com/us/store/products/trenga-unlimited-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Trip World DX",
+    "publisher": "SUNSOFT",
+    "url": "https://www.nintendo.com/us/store/products/trip-world-dx-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Trove",
+    "publisher": "gamigo US",
+    "url": "https://www.nintendo.com/us/store/products/trove-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Trover Saves the Universe",
+    "publisher": "Squanch Games",
+    "url": "https://www.nintendo.com/us/store/products/trover-saves-the-universe-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "TT Isle of Man: Ride on the Edge 3",
+    "publisher": "Nacon",
+    "url": "https://www.nintendo.com/us/store/products/tt-isle-of-man-ride-on-the-edge-3-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "TY the Tasmanian Tiger HD",
+    "publisher": "Krome Studios",
+    "url": "https://www.nintendo.com/us/store/products/ty-the-tasmanian-tiger-hd-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Uncle Chop's Rocket Shop",
+    "publisher": "Kasedo Games",
+    "url": "https://www.nintendo.com/us/store/products/uncle-chops-rocket-shop-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Warface: Clutch",
+    "publisher": "MY.GAMES",
+    "url": "https://www.nintendo.com/us/store/products/warface-clutch-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Warframe",
+    "publisher": "Digital Extremes",
+    "url": "https://www.nintendo.com/us/store/products/warframe-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Warp Shift",
+    "publisher": "Kyrkudden",
+    "url": "https://www.nintendo.com/us/store/products/warp-shift-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "WARRIORS: Abyss",
+    "publisher": "KOEI TECMO AMERICA",
+    "url": "https://www.nintendo.com/us/store/products/warriors-abyss-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "What the Dub?!",
+    "publisher": "Wide Right Interactive",
+    "url": "https://www.nintendo.com/us/store/products/what-the-dub-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Where the Bees Make Honey",
+    "publisher": "Whitethorn Games",
+    "url": "https://www.nintendo.com/us/store/products/where-the-bees-make-honey-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Wild Seas",
+    "publisher": "Afil Games",
+    "url": "https://www.nintendo.com/us/store/products/wild-seas-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Wildfire",
+    "publisher": "Humble Games",
+    "url": "https://www.nintendo.com/us/store/products/wildfire-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "WRC 8 FIA World Rally Championship",
+    "publisher": "Nacon",
+    "url": "https://www.nintendo.com/us/store/products/wrc-8-fia-world-rally-championship-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "WRC 9 The Official Game",
+    "publisher": "Nacon",
+    "url": "https://www.nintendo.com/us/store/products/wrc-9-the-official-game-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Yomawari: Lost in the Dark",
+    "publisher": "NIS America",
+    "url": "https://www.nintendo.com/us/store/products/yomawari-lost-in-the-dark-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "YouTube",
+    "publisher": "Google",
+    "url": "https://www.nintendo.com/us/store/products/youtube-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "ZikSquare",
+    "publisher": "TOMAGameStudio",
+    "url": "https://www.nintendo.com/us/store/products/ziksquare-switch",
+    "group": "Progress issues"
+  },
+  {
+    "title": "Abyss Memory Fallen Angel and the Path of Magic",
+    "publisher": "Byking",
+    "url": "https://www.nintendo.com/us/store/products/abyss-memory-fallen-angel-and-the-path-of-magic-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Beyond Enemy Lines - Remastered Edition",
+    "publisher": "Polygon Art",
+    "url": "https://www.nintendo.com/us/store/products/beyond-enemy-lines-remastered-edition-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Capcom Fighting Collection 2",
+    "publisher": "CAPCOM",
+    "url": "https://www.nintendo.com/us/store/products/capcom-fighting-collection-2-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Car Detailing Simulator",
+    "publisher": "Ultimate Games",
+    "url": "https://www.nintendo.com/us/store/products/car-detailing-simulator-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Dadish",
+    "publisher": "Thomas K Young",
+    "url": "https://www.nintendo.com/us/store/products/dadish-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Dairoku: Agents of Sakuratani",
+    "publisher": "Aksys Games",
+    "url": "https://www.nintendo.com/us/store/products/dairoku-agents-of-sakuratani-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Everyday Today's MENU for EMIYA Family",
+    "publisher": "Aniplex",
+    "url": "https://www.nintendo.com/us/store/products/everyday-todays-menu-for-emiya-family-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Genso Manege",
+    "publisher": "PQube",
+    "url": "https://www.nintendo.com/us/store/products/genso-manege-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Giana Sisters: Twisted Dreams - Owltimate Edition",
+    "publisher": "HandyGames",
+    "url": "https://www.nintendo.com/us/store/products/giana-sisters-twisted-dreams-owltimate-edition-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Go Vacation",
+    "publisher": "Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/go-vacation-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Godlike Burger",
+    "publisher": "Daedalic Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/godlike-burger-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Guardian Tales",
+    "publisher": "Kong Studios",
+    "url": "https://www.nintendo.com/us/store/products/guardian-tales-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Kero Blaster",
+    "publisher": "PLAYSIM",
+    "url": "https://www.nintendo.com/us/store/products/kero-blaster-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "LAYTON'S MYSTERY JOURNEY: Katrielle and the Millionaires' Conspiracy - Deluxe Edition",
+    "publisher": "LEVEL5",
+    "url": "https://www.nintendo.com/us/store/products/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "LIMBO",
+    "publisher": "Playdead",
+    "url": "https://www.nintendo.com/us/store/products/limbo-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "MotoGP 21",
+    "publisher": "Milestone",
+    "url": "https://www.nintendo.com/us/store/products/motogp-21-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "MotoGP 22",
+    "publisher": "Milestone",
+    "url": "https://www.nintendo.com/us/store/products/motogp-22-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "MotoGP 23",
+    "publisher": "Milestone",
+    "url": "https://www.nintendo.com/us/store/products/motogp-23-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Nintendo Switch Sports",
+    "publisher": "Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Norn9: Var Commons",
+    "publisher": "Aksys Games",
+    "url": "https://www.nintendo.com/us/store/products/norn9-var-commons-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Pikmin 3 Deluxe",
+    "publisher": "Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/pikmin-3-deluxe-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Redemption Reapers",
+    "publisher": "Binary Haze Interactive",
+    "url": "https://www.nintendo.com/us/store/products/redemption-reapers-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Retro Classix 2-in-1 Pack: Express Raider & Shootout",
+    "publisher": "Golem Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/retro-classix-2-in-1-pack-express-raider-and-shootout-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire",
+    "publisher": "Golem Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Retro Classix 4in1 Pack: Sly Spy` Shootout, Wizard Fire & Super Real Darwin",
+    "publisher": "Golem Entertainment",
+    "url": "https://www.nintendo.com/us/store/products/retro-classix-4in1-pack-sly-spy`-shootout,-wizard-fire-and-super-real-darwin-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "S.N.I.P.E.R. - Hunter Scope",
+    "publisher": "Baltoro Games",
+    "url": "https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Skateboard Drifting with Maxwell Cat: The Game Simulator",
+    "publisher": "GAMETOTOP.CC",
+    "url": "https://www.nintendo.com/us/store/products/skateboard-drifting-with-maxwell-cat-the-game-simulator-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Sportitions'24",
+    "publisher": "FuriouSoftPhoenix",
+    "url": "https://www.nintendo.com/us/store/products/sportitions24-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Street Fighter 30th Anniversary Collection",
+    "publisher": "CAPCOM",
+    "url": "https://www.nintendo.com/us/store/products/street-fighter-30th-anniversary-collection-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Super Fowlst 2",
+    "publisher": "Thomas K Young",
+    "url": "https://www.nintendo.com/us/store/products/super-fowlst-2-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "publisher": "Nintendo",
+    "url": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "publisher": "Aspyr",
+    "url": "https://www.nintendo.com/us/store/products/tomb-raider-i-iii-remastered-starring-lara-croft-switch",
+    "group": "Updated"
+  },
+  {
+    "title": "Trials Rising Standard Edition",
+    "publisher": "Ubisoft",
+    "url": "https://www.nintendo.com/us/store/products/trials-rising-standard-edition-switch",
+    "group": "Updated"
   }
 ]
