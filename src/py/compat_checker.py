@@ -7,6 +7,7 @@ def fetch_game_status(game):
     request = requests.get(game['url'])
     soup = BeautifulSoup(request.content, 'html.parser')
     game_data = json.loads(soup.find(id="__NEXT_DATA__").text)
+    print(type(game_data))
 
     status = game.copy()
     if 'product' in game_data['props']['pageProps']['analytics']:
@@ -22,17 +23,22 @@ def fetch_game_status(game):
         status["status"] = '404'
     return status
 
-data = []
+data = []  # Data to read from
+out_data = []  # Data to write to
 def main():
     with open("../json/game_list.json") as file:
         data = json.load(file)
         file.close()
     open("../json/game_statuses.json", 'w').close()  # Clear file
     with open("../json/game_statuses.json", 'a') as outfile:
+        count = 0
         for game in data:
+            # if count > 10:  # Debugging
+                # break
             print("fetching " + game['title'])
-            status = fetch_game_status(game)
-            json.dump(status, outfile, indent=2)
+            out_data.append(fetch_game_status(game))
+            # count += 1  # Debugging
+        json.dump(out_data, outfile, indent=2)
         file.close()
 
 if __name__ == "__main__":
