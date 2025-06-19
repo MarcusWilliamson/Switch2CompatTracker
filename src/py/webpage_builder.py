@@ -7,9 +7,6 @@ with open("../json/game_statuses.json") as file:
 
 # Setting up jinja2 for writing to HTML using templates
 env = Environment(loader=FileSystemLoader('../templates/'))
-head_template = env.get_template("head.html")
-body_template = env.get_template("bodyTemplate.html")
-tail_template = env.get_template("tail.html")
 template = env.get_template("template.html")
 
 filename = "test_out.html"

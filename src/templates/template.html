@@ -10,8 +10,12 @@
     <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch eshop.</p>
 
     {% for game in games %}
-    <p>{{ game.title }}: {{ game.status }}</p>
+    <p>
+        <b>{{ game.title }}</b>  {{ game.publisher }}  <a href="{{ game.url }}" target="_blank">eShop</a><br>
+        {{ game.caption }}<br>
+        {% if game.details %}Details: {% for detail in game.details %}{{ detail }} {% endfor %}{% endif %}
+    </p>
     {% endfor %}
-    
+
     </body>
 </html>
