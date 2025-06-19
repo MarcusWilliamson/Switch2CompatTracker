@@ -8,3 +8,10 @@
 <body>
     <h1>Switch 2 Game Compatibility Tracker</h1>
     <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch eshop.</p>
+
+    {% for game in games %}
+    <p>{{ game.title }}: {{ game.status }}</p>
+    {% endfor %}
+    
+    </body>
+</html>
