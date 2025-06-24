@@ -1,4 +1,4 @@
-#Switch 2 Game Compatibility Tracker
+# Switch 2 Game Compatibility Tracker
 
 Live page: [https://marcuswilliamson.github.io/Switch2CompatTracker/](https://marcuswilliamson.github.io/Switch2CompatTracker/)
 
