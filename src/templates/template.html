@@ -32,7 +32,10 @@ table, th, td {
         <tr>
             <td>{{ game.title }} {% if not game.status == "404" %} <a href="{{ game.url }}" target="_blank">eShop</a>{% endif %}</td>
             <td>{{ game.publisher }}</td>
-            <td>{% if not game.status == "404" %}{{ game.caption }}</td>{% else %}Information unavailable on eShop.{% endif %}
+            <td>{% if game.status == "404" %}&#10068 Information unavailable on eShop.
+                {% elif game.status == "PLAYABLE" %}&#9989 {{ game.caption }}
+                {% elif game.status == "NOT_PLAYABLE" %}&#10060 {{ game.caption }}
+                {% endif %}</td>
             <td>{% if game.details %}{% for detail in game.details %}{{ detail }}<br>{% endfor %}{% endif %}</td>
         </tr>
         {% endfor %}
