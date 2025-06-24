@@ -7,14 +7,12 @@ def fetch_game_status(game):
     request = requests.get(game['url'])
     soup = BeautifulSoup(request.content, 'html.parser')
     game_data = json.loads(soup.find(id="__NEXT_DATA__").text)
-    print(type(game_data))
 
     status = game.copy()
     if 'product' in game_data['props']['pageProps']['analytics']:
         sku = game_data['props']['pageProps']['analytics']['product']['sku']
         compatibility = (game_data['props']['pageProps']['initialApolloState']
                      ['StoreProduct:{\"sku\":\"' + sku + '\",\"locale\":\"en_US\"}']['compatibility'])
-        print(compatibility)
         if compatibility is None:
             status['status'] = 'info_missing'
         else:
