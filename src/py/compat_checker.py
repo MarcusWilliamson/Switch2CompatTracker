@@ -26,11 +26,11 @@ def fetch_game_status(game):
 data = []  # Data to read from
 out_data = []  # Data to write to
 def main():
-    with open("../json/game_list.json") as file:
+    with open("src/json/game_list.json") as file:
         data = json.load(file)
         file.close()
-    open("../json/game_statuses.json", 'w').close()  # Clear file
-    with open("../json/game_statuses.json", 'a') as outfile:
+    open("src/json/game_statuses.json", 'w').close()  # Clear file
+    with open("src/json/game_statuses.json", 'a') as outfile:
         count = 0
         for game in data:
             # if count > 10:  # Debugging

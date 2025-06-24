@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,15 +13,27 @@
 </head>
 <body>
     <h1>Switch 2 Game Compatibility Tracker</h1>
-    <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch eshop.</p>
-
-    {% for game in games %}
-    <p>
-        <b>{{ game.title }}</b>  {{ game.publisher }}  <a href="{{ game.url }}" target="_blank">eShop</a><br>
-        {{ game.caption }}<br>
-        {% if game.details %}Details: {% for detail in game.details %}{{ detail }} {% endfor %}{% endif %}
+    <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch eshop. Meant to be
+        an up-to-date version of this page: <a href="https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/">
+            https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games</a>. Unaffiliated with Nintendo.
     </p>
-    {% endfor %}
+
+    <table>
+        <tr>
+            <th>Game</th>
+            <th>Publisher</th>
+            <th>Caption</th>
+            <th>Details</th>
+        </tr>
+        {% for game in games %}
+        <tr>
+            <td>{{ game.title }} {% if not game.status == "404" %} <a href="{{ game.url }}" target="_blank">eShop</a>{% endif %}</td>
+            <td>{{ game.publisher }}</td>
+            <td>{% if not game.status == "404" %}{{ game.caption }}</td>{% else %}Information unavailable on eShop.{% endif %}
+            <td>{% if game.details %}{% for detail in game.details %}{{ detail }}<br>{% endfor %}{% endif %}</td>
+        </tr>
+        {% endfor %}
+    </table>
 
     </body>
 </html>
