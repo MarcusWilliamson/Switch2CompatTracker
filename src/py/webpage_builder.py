@@ -12,3 +12,4 @@ template = env.get_template("template.html")
 filename = "index.html"
 with open(filename, mode='w', encoding='utf-8') as webpage:
     webpage.write(template.render(games = statuses))
+    webpage.close()
