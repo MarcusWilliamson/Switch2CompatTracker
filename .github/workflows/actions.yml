@@ -1,4 +1,4 @@
-name: run main.py
+name: run-py-and-build-and-deploy
 
 on:
     schedule:
