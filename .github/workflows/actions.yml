@@ -1,41 +1,68 @@
-name: run scripts and publish site
+name: run main.py
 
 on:
-  schedule:
-    - cron: '0 0 * * 1' # At 00:00 on Monday
+    schedule:
+        - cron: '0 7 * * *' # Every day at 7:00AM
+    workflow_dispatch:
+        
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+      - name: Checkout Repo Content
+        uses: actions/checkout@v4 # checkout the repository content to github runner
 
-      - name: setup python
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11.1' # install the python version needed
           
-      - name: install python packages
+      - name: Install Python Packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # run main.py
-        env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python main.py
+      - name: Run compat_checker.py (web scraping)
+        run: python src/py/compat_checker.py
+
+      - name: Run webpage_builder.py (build HTML file)
+        run: python src/py/webpage_builder.py
           
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Automated update" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main 
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
