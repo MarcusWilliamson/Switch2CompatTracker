@@ -1,1389 +1,2278 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
-</style>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Switch 2 Game Compatibility Tracker</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.3.2/datatables.min.css" rel="stylesheet"
+        integrity="sha384-oy6ZmHnH9nTuDaccEOUPX5BSJbGKwDpz3u3XiFJBdNXDpAAZh28v/4zfMCU7o63p" crossorigin="anonymous">
 </head>
-<body>
-    <h1>Switch 2 Game Compatibility Tracker</h1>
-    <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch eshop. Meant to be
-        an up-to-date version of the PDFs on this page: <a href="https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/">
-            https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games</a>. Unaffiliated with Nintendo.
-    </p>
-    <p>
-        This webpage updates itself daily at 4am and 4pm UTC. And yes, I know it's ugly, I don't know CSS :'(
-    </p>
-    <p>
-        Last updated at: 2025-06-26 16:33 UTC
-    </p>
 
-    <table>
-        <tr>
-            <th>Game</th>
-            <th>Publisher</th>
-            <th>Status</th>
-            <th>Details</th>
-        </tr>
-        
-        <tr>
-            <td>3 out of 10: Season One  <a href="https://www.nintendo.com/us/store/products/3-out-of-10-season-one-switch" target="_blank">eShop</a></td>
-            <td>Terrible Posture Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>A Boy and His Blob Retro Collection  <a href="https://www.nintendo.com/us/store/products/a-boy-and-his-blob-retro-collection-switch" target="_blank">eShop</a></td>
-            <td>Ziggurat</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>A Long Way Down  <a href="https://www.nintendo.com/us/store/products/a-long-way-down-switch" target="_blank">eShop</a></td>
-            <td>Forever Entertainment</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>A Time Traveller's Guide To Past Delicacies  <a href="https://www.nintendo.com/us/store/products/a-time-travellers-guide-to-past-delicacies-switch" target="_blank">eShop</a></td>
-            <td>Sometimes You</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Aeon Must Die!  <a href="https://www.nintendo.com/us/store/products/aeon-must-die-switch" target="_blank">eShop</a></td>
-            <td>Focus Entertainment</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Aeterna Noctis  <a href="https://www.nintendo.com/us/store/products/aeterna-noctis-switch" target="_blank">eShop</a></td>
-            <td>Aeternum Game Studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Afterdream  <a href="https://www.nintendo.com/us/store/products/afterdream-switch" target="_blank">eShop</a></td>
-            <td>Feardemic</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Aidan In Danger  <a href="https://www.nintendo.com/us/store/products/aidan-in-danger-switch" target="_blank">eShop</a></td>
-            <td>Brainium Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Amanda the Adventurer  <a href="https://www.nintendo.com/us/store/products/amanda-the-adventurer-switch" target="_blank">eShop</a></td>
-            <td>Dread XP</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Arcade Party  <a href="https://www.nintendo.com/us/store/products/arcade-party-switch" target="_blank">eShop</a></td>
-            <td>OddOneGames</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Assault Suit Leynos 2 Saturn Tribute  <a href="https://www.nintendo.com/us/store/products/assault-suit-leynos-2-saturn-tribute-switch" target="_blank">eShop</a></td>
-            <td>Clear River Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Astral Flux  <a href="https://www.nintendo.com/us/store/products/astral-flux-switch" target="_blank">eShop</a></td>
-            <td>Mindscape</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Bacon Man: An Adventure  <a href="https://www.nintendo.com/us/store/products/bacon-man-an-adventure-switch" target="_blank">eShop</a></td>
-            <td>Skymap Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Bill & Ted's Excellent Retro Collection </td>
-            <td>Limited Run Games</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Bloodshore  <a href="https://www.nintendo.com/us/store/products/bloodshore-switch" target="_blank">eShop</a></td>
-            <td>Wales Interactive</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Boot Hill Heroes  <a href="https://www.nintendo.com/us/store/products/boot-hill-heroes-switch" target="_blank">eShop</a></td>
-            <td>Experimental Gamer Studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Borderlands 3 Ultimate Edition  <a href="https://www.nintendo.com/us/store/products/borderlands-3-ultimate-edition-switch" target="_blank">eShop</a></td>
-            <td>Take-Two Interactive</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Botany Manor  <a href="https://www.nintendo.com/us/store/products/botany-manor-switch" target="_blank">eShop</a></td>
-            <td>Whitethorn Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Chickens Madness  <a href="https://www.nintendo.com/us/store/products/chickens-madness-switch" target="_blank">eShop</a></td>
-            <td>Vikong</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Chronicles of 2 Heroes: Amaterasu's Wrath  <a href="https://www.nintendo.com/us/store/products/chronicles-of-2-heroes-amaterasus-wrath-switch" target="_blank">eShop</a></td>
-            <td>Catness Game</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Addressed a problem with game progression as part of an update.<br>Game controls and explanatory text may not appear correctly in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>CHRONO CROSS: THE RADICAL DREAMERS EDITION  <a href="https://www.nintendo.com/us/store/products/chrono-cross-the-radical-dreamers-edition-switch" target="_blank">eShop</a></td>
-            <td>SQUARE ENIX</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Clock Tower: Rewind  <a href="https://www.nintendo.com/us/store/products/clock-tower-rewind-switch" target="_blank">eShop</a></td>
-            <td>WayForward</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Crash Bandicoot N. Sane Trilogy  <a href="https://www.nintendo.com/us/store/products/crash-bandicoot-n-sane-trilogy-switch" target="_blank">eShop</a></td>
-            <td>Activision</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Crypt of the NecroDancer: Nintendo Switch Edition  <a href="https://www.nintendo.com/us/store/products/crypt-of-the-necrodancer-nintendo-switch-edition-switch" target="_blank">eShop</a></td>
-            <td>Brace Yourself Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td>06/10/2025<br></td>
-        </tr>
-        
-        <tr>
-            <td>Dark Nights with Poe and Munro  <a href="https://www.nintendo.com/us/store/products/dark-nights-with-poe-and-munro-switch" target="_blank">eShop</a></td>
-            <td>D'Avekki Studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>DC Universe Online  <a href="https://www.nintendo.com/us/store/products/dc-universe-online-switch" target="_blank">eShop</a></td>
-            <td>Daybreak Game Company</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Dragon's Lair Trilogy  <a href="https://www.nintendo.com/us/store/products/dragons-lair-trilogy-switch" target="_blank">eShop</a></td>
-            <td>Digital Leisure</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Dreamwalker  <a href="https://www.nintendo.com/us/store/products/dreamwalker-switch" target="_blank">eShop</a></td>
-            <td>Code Mystics</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Dust: An Elysian Tail  <a href="https://www.nintendo.com/us/store/products/dust-an-elysian-tail-switch" target="_blank">eShop</a></td>
-            <td>Humble Hearts</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Escape from Chernobyl  <a href="https://www.nintendo.com/us/store/products/escape-from-chernobyl-switch" target="_blank">eShop</a></td>
-            <td>Atypical Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>fig.  <a href="https://www.nintendo.com/us/store/products/fig-switch" target="_blank">eShop</a></td>
-            <td>Take IT Studio!</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Flan  <a href="https://www.nintendo.com/us/store/products/flan-switch" target="_blank">eShop</a></td>
-            <td>AnelaGamesStudio</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Gameplay experience on Nintendo Switch 2 confirmed to match experience on Nintendo Switch.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Forgotten Memories  <a href="https://www.nintendo.com/us/store/products/forgotten-memories-switch" target="_blank">eShop</a></td>
-            <td>Psychose Interactive</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Gang Beasts  <a href="https://www.nintendo.com/us/store/products/gang-beasts-switch" target="_blank">eShop</a></td>
-            <td>Boneloaf</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Gelly Break Deluxe  <a href="https://www.nintendo.com/us/store/products/gelly-break-deluxe-switch" target="_blank">eShop</a></td>
-            <td>ByteRockers Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>GRID Autosport  <a href="https://www.nintendo.com/us/store/products/grid-autosport-switch" target="_blank">eShop</a></td>
-            <td>Codemasters</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>GUILTY GEAR XX ACCENT CORE PLUS R  <a href="https://www.nintendo.com/us/store/products/guilty-gear-xx-accent-core-plus-r-switch" target="_blank">eShop</a></td>
-            <td>ARC SYSTEM WORKS</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Happy Hotel  <a href="https://www.nintendo.com/us/store/products/happy-hotel-switch" target="_blank">eShop</a></td>
-            <td>Nyakuza Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Highrise Heroes: Word Challenge  <a href="https://www.nintendo.com/us/store/products/highrise-heroes-word-challenge-switch" target="_blank">eShop</a></td>
-            <td>Fallen Tree Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>HITMAN 3 - Cloud Version  <a href="https://www.nintendo.com/us/store/products/hitman-3-cloud-version-switch" target="_blank">eShop</a></td>
-            <td>IO Interactive</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>House Builder  <a href="https://www.nintendo.com/us/store/products/house-builder-switch" target="_blank">eShop</a></td>
-            <td>Console Labs</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>In My Shadow  <a href="https://www.nintendo.com/us/store/products/in-my-shadow-switch" target="_blank">eShop</a></td>
-            <td>OverGamez</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Inferno 2  <a href="https://www.nintendo.com/us/store/products/inferno-2-switch" target="_blank">eShop</a></td>
-            <td>2Awesome Studio</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>INSTANT Chef Party  <a href="https://www.nintendo.com/us/store/products/instant-chef-party-switch" target="_blank">eShop</a></td>
-            <td>MAXIMUM ENT FRANCE</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Jurassic Park Classic Games Collection  <a href="https://www.nintendo.com/us/store/products/jurassic-park-classic-games-collection-switch" target="_blank">eShop</a></td>
-            <td>Limited Run Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>KarmaZoo  <a href="https://www.nintendo.com/us/store/products/karmazoo-switch" target="_blank">eShop</a></td>
-            <td>Devolver Digital</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>KILL la KILL -IF  <a href="https://www.nintendo.com/us/store/products/kill-la-kill-if-switch" target="_blank">eShop</a></td>
-            <td>ARC SYSTEM WORKS</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Killing Time: Resurrected  <a href="https://www.nintendo.com/us/store/products/killing-time-resurrected-switch" target="_blank">eShop</a></td>
-            <td>Nightdive Studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Laboratory Rat Escape Simulator Pro  <a href="https://www.nintendo.com/us/store/products/laboratory-rat-escape-simulator-pro-switch" target="_blank">eShop</a></td>
-            <td>Clockwork Moon</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Labyrinth of Galleria: The Moon Society  <a href="https://www.nintendo.com/us/store/products/labyrinth-of-galleria-the-moon-society-switch" target="_blank">eShop</a></td>
-            <td>NIS America</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Layer Section & Galactic Attack S-Tribute  <a href="https://www.nintendo.com/us/store/products/layer-section-and-galactic-attack-s-tribute-switch" target="_blank">eShop</a></td>
-            <td>City Connection</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Library Of Ruina  <a href="https://www.nintendo.com/us/store/products/library-of-ruina-switch" target="_blank">eShop</a></td>
-            <td>ARC SYSTEM WORKS</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Malignant Survivors  <a href="https://www.nintendo.com/us/store/products/malignant-survivors-switch" target="_blank">eShop</a></td>
-            <td>Brain Connected</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Manticore - Galaxy on Fire  <a href="https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch" target="_blank">eShop</a></td>
-            <td>PLAION</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>MARVEL vs. CAPCOM Fighting Collection: Arcade Classics  <a href="https://www.nintendo.com/us/store/products/marvel-vs-capcom-fighting-collection-arcade-classics-switch" target="_blank">eShop</a></td>
-            <td>CAPCOM</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Mega Mall Story 2  <a href="https://www.nintendo.com/us/store/products/mega-mall-story-2-switch" target="_blank">eShop</a></td>
-            <td>Kairosoft</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Meganoid  <a href="https://www.nintendo.com/us/store/products/meganoid-switch" target="_blank">eShop</a></td>
-            <td>Orange Pixel</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Megaton Rainfall  <a href="https://www.nintendo.com/us/store/products/megaton-rainfall-switch" target="_blank">eShop</a></td>
-            <td>Pentadimensional</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Mia and me - Magic Friends  <a href="https://www.nintendo.com/us/store/products/mia-and-me-magic-friends-switch" target="_blank">eShop</a></td>
-            <td>TREVA</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Minigolf Adventure  <a href="https://www.nintendo.com/us/store/products/minigolf-adventure-switch" target="_blank">eShop</a></td>
-            <td>Revulo Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>MODEL Debut3 #nicola  <a href="https://www.nintendo.com/us/store/products/model-debut3-nicola-switch" target="_blank">eShop</a></td>
-            <td>FURYU Corporation</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Mortal Kombat 1  <a href="https://www.nintendo.com/us/store/products/mortal-kombat-1-switch" target="_blank">eShop</a></td>
-            <td>WB Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>My Memory of Us  <a href="https://www.nintendo.com/us/store/products/my-memory-of-us-switch" target="_blank">eShop</a></td>
-            <td>Crunching Koalas</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>NASCAR Rivals </td>
-            <td>Motorsport Games</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>NEKOPARA Vol.1  <a href="https://www.nintendo.com/us/store/products/nekopara-vol-1-switch" target="_blank">eShop</a></td>
-            <td>CFK</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>NEKOPARA Vol.2  <a href="https://www.nintendo.com/us/store/products/nekopara-vol-2-switch" target="_blank">eShop</a></td>
-            <td>CFK</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Neverwinter Nights: Enhanced Edition  <a href="https://www.nintendo.com/us/store/products/neverwinter-nights-enhanced-edition-switch" target="_blank">eShop</a></td>
-            <td>Beamdog</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>NieR:Automata The End of YoRHa Edition  <a href="https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch" target="_blank">eShop</a></td>
-            <td>SQUARE ENIX</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Ninja Five-O  <a href="https://www.nintendo.com/us/store/products/ninja-five-o-switch" target="_blank">eShop</a></td>
-            <td>KONAMI</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Ninjala  <a href="https://www.nintendo.com/us/store/products/ninjala-switch" target="_blank">eShop</a></td>
-            <td>GUNGHOONLINE</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Nobody Saves the World  <a href="https://www.nintendo.com/us/store/products/nobody-saves-the-world-switch" target="_blank">eShop</a></td>
-            <td>DrinkBox Studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Oddworld: Stranger's Wrath  <a href="https://www.nintendo.com/us/store/products/oddworld-strangers-wrath-switch" target="_blank">eShop</a></td>
-            <td>Oddworld Inhabitants</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>OK K.O.! Let's Play Heroes </td>
-            <td>Cartoon Network Games</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Otto  <a href="https://www.nintendo.com/us/store/products/otto-switch" target="_blank">eShop</a></td>
-            <td>34BigThings</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Overcooked! All You Can Eat  <a href="https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch" target="_blank">eShop</a></td>
-            <td>Team17</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Overdriven Reloaded: Special Edition  <a href="https://www.nintendo.com/us/store/products/overdriven-reloaded-special-edition-switch" target="_blank">eShop</a></td>
-            <td>TOMAGameStudio</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Overwatch 2  <a href="https://www.nintendo.com/us/store/products/overwatch-2-switch" target="_blank">eShop</a></td>
-            <td>Blizzard Entertainment</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Plants vs. Zombies: Battle for Neighborville Complete Edition  <a href="https://www.nintendo.com/us/store/products/plants-vs-zombies-battle-for-neighborville-complete-edition-switch" target="_blank">eShop</a></td>
-            <td>Electronic Arts</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Quell Memento  <a href="https://www.nintendo.com/us/store/products/quell-memento-switch" target="_blank">eShop</a></td>
-            <td>Fallen Tree Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Quell Zen  <a href="https://www.nintendo.com/us/store/products/quell-zen-switch" target="_blank">eShop</a></td>
-            <td>Fallen Tree Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Quick Race  <a href="https://www.nintendo.com/us/store/products/quick-race-switch" target="_blank">eShop</a></td>
-            <td>SOURCE BYTE</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Radiation City  <a href="https://www.nintendo.com/us/store/products/radiation-city-switch" target="_blank">eShop</a></td>
-            <td>Atypical Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Raiden III x MIKADO MANIAX  <a href="https://www.nintendo.com/us/store/products/raiden-iii-x-mikado-maniax-switch" target="_blank">eShop</a></td>
-            <td>NIS America</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Raiden IV x MIKADO remix  <a href="https://www.nintendo.com/us/store/products/raiden-iv-x-mikado-remix-switch" target="_blank">eShop</a></td>
-            <td>UFO Interactive</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Remothered: Tormented Fathers  <a href="https://www.nintendo.com/us/store/products/remothered-tormented-fathers-switch" target="_blank">eShop</a></td>
-            <td>Soedesco</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes </td>
-            <td>Golem Entertainment</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>RICO  <a href="https://www.nintendo.com/us/store/products/rico-switch" target="_blank">eShop</a></td>
-            <td>Thunderful Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>RiffTrax: The Game  <a href="https://www.nintendo.com/us/store/products/rifftrax-the-game-switch" target="_blank">eShop</a></td>
-            <td>Wide Right Interactive</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>River City Girls Zero  <a href="https://www.nintendo.com/us/store/products/river-city-girls-zero-switch" target="_blank">eShop</a></td>
-            <td>WayForward</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Roller Champions  <a href="https://www.nintendo.com/us/store/products/roller-champions-switch" target="_blank">eShop</a></td>
-            <td>Ubisoft</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Root Double -Before Crime * After Days- Xtend Edition  <a href="https://www.nintendo.com/us/store/products/root-double-before-crime-after-days-xtend-edition-switch" target="_blank">eShop</a></td>
-            <td>Sekai Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Saviors of Sapphire Wings / Stranger of Sword City Revisited  <a href="https://www.nintendo.com/us/store/products/saviors-of-sapphire-wings-stranger-of-sword-city-revisited-switch" target="_blank">eShop</a></td>
-            <td>NIS America</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Secret Neighbor  <a href="https://www.nintendo.com/us/store/products/secret-neighbor-switch" target="_blank">eShop</a></td>
-            <td>tinyBuild Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Skies Above  <a href="https://www.nintendo.com/us/store/products/skies-above-switch" target="_blank">eShop</a></td>
-            <td>Flynns Arcade</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>SmileBASIC 4  <a href="https://www.nintendo.com/us/store/products/smilebasic-4-switch" target="_blank">eShop</a></td>
-            <td>SmileBoom</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Soul Dog TD  <a href="https://www.nintendo.com/us/store/products/soul-dog-td-switch" target="_blank">eShop</a></td>
-            <td>Waku Waku Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>South of the Circle  <a href="https://www.nintendo.com/us/store/products/south-of-the-circle-switch" target="_blank">eShop</a></td>
-            <td>11 bit studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>South Park: The Fractured but Whole - Standard Edition  <a href="https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-standard-edition-switch" target="_blank">eShop</a></td>
-            <td>Ubisoft</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>STAR WARS Republic Commando  <a href="https://www.nintendo.com/us/store/products/star-wars-republic-commando-switch" target="_blank">eShop</a></td>
-            <td>Aspyr</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>STAR WARS: Knights of the Old Republic II: The Sith Lords  <a href="https://www.nintendo.com/us/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch" target="_blank">eShop</a></td>
-            <td>Aspyr</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Stranded Sails - Explorers of the Cursed Islands  <a href="https://www.nintendo.com/us/store/products/stranded-sails-explorers-of-the-cursed-islands-switch" target="_blank">eShop</a></td>
-            <td>Rokaplay</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Strania -The Stella Machina- EX  <a href="https://www.nintendo.com/us/store/products/strania-the-stella-machina-ex-switch" target="_blank">eShop</a></td>
-            <td>G.rev</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Stumble Guys  <a href="https://www.nintendo.com/us/store/products/stumble-guys-switch" target="_blank">eShop</a></td>
-            <td>Scopely</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Super Mega Baseball 4  <a href="https://www.nintendo.com/us/store/products/super-mega-baseball-4-switch" target="_blank">eShop</a></td>
-            <td>Electronic Arts</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>The Final Station  <a href="https://www.nintendo.com/us/store/products/the-final-station-switch" target="_blank">eShop</a></td>
-            <td>tinyBuild Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>The Mean Greens - Plastic Warfare  <a href="https://www.nintendo.com/us/store/products/the-mean-greens-plastic-warfare-switch" target="_blank">eShop</a></td>
-            <td>Virtual Basement</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>The Wild Case  <a href="https://www.nintendo.com/us/store/products/the-wild-case-switch" target="_blank">eShop</a></td>
-            <td>Maxim Ryadchik</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>They Bleed Pixels  <a href="https://www.nintendo.com/us/store/products/they-bleed-pixels-switch" target="_blank">eShop</a></td>
-            <td>Spooky Squid Games Incorporated</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>This War of Mine: Complete Edition  <a href="https://www.nintendo.com/us/store/products/this-war-of-mine-complete-edition-switch" target="_blank">eShop</a></td>
-            <td>11 bit studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Timespinner  <a href="https://www.nintendo.com/us/store/products/timespinner-switch" target="_blank">eShop</a></td>
-            <td>Lunar Ray Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Tiny Lands  <a href="https://www.nintendo.com/us/store/products/tiny-lands-switch" target="_blank">eShop</a></td>
-            <td>naptime.games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Tokyo Xanadu eX+  <a href="https://www.nintendo.com/us/store/products/tokyo-xanadu-ex-plus-switch" target="_blank">eShop</a></td>
-            <td>Aksys Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Tomba! Special Edition  <a href="https://www.nintendo.com/us/store/products/tomba-special-edition-switch" target="_blank">eShop</a></td>
-            <td>Limited Run Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Tony Hawk's Pro Skater 1 + 2  <a href="https://www.nintendo.com/us/store/products/tony-hawks-pro-skater-1-plus-2-switch" target="_blank">eShop</a></td>
-            <td>Activision</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Touhou Genso Wanderer Reloaded  <a href="https://www.nintendo.com/us/store/products/touhou-genso-wanderer-reloaded-switch" target="_blank">eShop</a></td>
-            <td>NIS America</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Touhou Gouyoku Ibun ~ Sunken Fossil World.  <a href="https://www.nintendo.com/us/store/products/touhou-gouyoku-ibun-sunken-fossil-world-switch" target="_blank">eShop</a></td>
-            <td>Phoenixx</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Trenga Unlimited  <a href="https://www.nintendo.com/us/store/products/trenga-unlimited-switch" target="_blank">eShop</a></td>
-            <td>Flux Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Trip World DX  <a href="https://www.nintendo.com/us/store/products/trip-world-dx-switch" target="_blank">eShop</a></td>
-            <td>SUNSOFT</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Trove  <a href="https://www.nintendo.com/us/store/products/trove-switch" target="_blank">eShop</a></td>
-            <td>gamigo US</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Trover Saves the Universe  <a href="https://www.nintendo.com/us/store/products/trover-saves-the-universe-switch" target="_blank">eShop</a></td>
-            <td>Squanch Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>TT Isle of Man: Ride on the Edge 3  <a href="https://www.nintendo.com/us/store/products/tt-isle-of-man-ride-on-the-edge-3-switch" target="_blank">eShop</a></td>
-            <td>Nacon</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>TY the Tasmanian Tiger HD  <a href="https://www.nintendo.com/us/store/products/ty-the-tasmanian-tiger-hd-switch" target="_blank">eShop</a></td>
-            <td>Krome Studios</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Uncle Chop's Rocket Shop  <a href="https://www.nintendo.com/us/store/products/uncle-chops-rocket-shop-switch" target="_blank">eShop</a></td>
-            <td>Kasedo Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Warface: Clutch  <a href="https://www.nintendo.com/us/store/products/warface-clutch-switch" target="_blank">eShop</a></td>
-            <td>MY.GAMES</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Warframe  <a href="https://www.nintendo.com/us/store/products/warframe-switch" target="_blank">eShop</a></td>
-            <td>Digital Extremes</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Addressed a problem with game progression as part of an update.<br>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Warp Shift  <a href="https://www.nintendo.com/us/store/products/warp-shift-switch" target="_blank">eShop</a></td>
-            <td>Kyrkudden</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>WARRIORS: Abyss  <a href="https://www.nintendo.com/us/store/products/warriors-abyss-switch" target="_blank">eShop</a></td>
-            <td>KOEI TECMO AMERICA</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>What the Dub?!  <a href="https://www.nintendo.com/us/store/products/what-the-dub-switch" target="_blank">eShop</a></td>
-            <td>Wide Right Interactive</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Where the Bees Make Honey  <a href="https://www.nintendo.com/us/store/products/where-the-bees-make-honey-switch" target="_blank">eShop</a></td>
-            <td>Whitethorn Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Wild Seas  <a href="https://www.nintendo.com/us/store/products/wild-seas-switch" target="_blank">eShop</a></td>
-            <td>Afil Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Wildfire  <a href="https://www.nintendo.com/us/store/products/wildfire-switch" target="_blank">eShop</a></td>
-            <td>Humble Games</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>WRC 8 FIA World Rally Championship  <a href="https://www.nintendo.com/us/store/products/wrc-8-fia-world-rally-championship-switch" target="_blank">eShop</a></td>
-            <td>Nacon</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>WRC 9 The Official Game  <a href="https://www.nintendo.com/us/store/products/wrc-9-the-official-game-switch" target="_blank">eShop</a></td>
-            <td>Nacon</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Yomawari: Lost in the Dark  <a href="https://www.nintendo.com/us/store/products/yomawari-lost-in-the-dark-switch" target="_blank">eShop</a></td>
-            <td>NIS America</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>YouTube  <a href="https://www.nintendo.com/us/store/products/youtube-switch" target="_blank">eShop</a></td>
-            <td>Google</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>ZikSquare  <a href="https://www.nintendo.com/us/store/products/ziksquare-switch" target="_blank">eShop</a></td>
-            <td>TOMAGameStudio</td>
-            <td>&#10060 Unsupported – Problems with game progression have been found.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Abyss Memory Fallen Angel and the Path of Magic  <a href="https://www.nintendo.com/us/store/products/abyss-memory-fallen-angel-and-the-path-of-magic-switch" target="_blank">eShop</a></td>
-            <td>Byking</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Waiting on the title screen for around 30 seconds causes a problem. The user can continue past the title screen to avoid the problem.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Beyond Enemy Lines - Remastered Edition  <a href="https://www.nintendo.com/us/store/products/beyond-enemy-lines-remastered-edition-switch" target="_blank">eShop</a></td>
-            <td>Polygon Art</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Capcom Fighting Collection 2  <a href="https://www.nintendo.com/us/store/products/capcom-fighting-collection-2-switch" target="_blank">eShop</a></td>
-            <td>CAPCOM</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Car Detailing Simulator  <a href="https://www.nintendo.com/us/store/products/car-detailing-simulator-switch" target="_blank">eShop</a></td>
-            <td>Ultimate Games</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Dadish  <a href="https://www.nintendo.com/us/store/products/dadish-switch" target="_blank">eShop</a></td>
-            <td>Thomas K Young</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Grid lines may appear on parts of the screen.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Dairoku: Agents of Sakuratani  <a href="https://www.nintendo.com/us/store/products/dairoku-agents-of-sakuratani-switch" target="_blank">eShop</a></td>
-            <td>Aksys Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Everyday Today's MENU for EMIYA Family  <a href="https://www.nintendo.com/us/store/products/everyday-todays-menu-for-emiya-family-switch" target="_blank">eShop</a></td>
-            <td>Aniplex</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Genso Manege  <a href="https://www.nintendo.com/us/store/products/genso-manege-switch" target="_blank">eShop</a></td>
-            <td>PQube</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Giana Sisters: Twisted Dreams - Owltimate Edition  <a href="https://www.nintendo.com/us/store/products/giana-sisters-twisted-dreams-owltimate-edition-switch" target="_blank">eShop</a></td>
-            <td>HandyGames</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Go Vacation  <a href="https://www.nintendo.com/us/store/products/go-vacation-switch" target="_blank">eShop</a></td>
-            <td>Nintendo</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience slowdown in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Godlike Burger  <a href="https://www.nintendo.com/us/store/products/godlike-burger-switch" target="_blank">eShop</a></td>
-            <td>Daedalic Entertainment</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Guardian Tales  <a href="https://www.nintendo.com/us/store/products/guardian-tales-switch" target="_blank">eShop</a></td>
-            <td>Kong Studios</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Part of the opening sequence may not appear if the user quickly presses buttons after starting the game.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Kero Blaster  <a href="https://www.nintendo.com/us/store/products/kero-blaster-switch" target="_blank">eShop</a></td>
-            <td>PLAYSIM</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>LAYTON'S MYSTERY JOURNEY: Katrielle and the Millionaires' Conspiracy - Deluxe Edition  <a href="https://www.nintendo.com/us/store/products/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-switch" target="_blank">eShop</a></td>
-            <td>LEVEL5</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>LIMBO  <a href="https://www.nintendo.com/us/store/products/limbo-switch" target="_blank">eShop</a></td>
-            <td>Playdead</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>The game may occasionally shut down when the user performs certain inputs in specific areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>MotoGP 21  <a href="https://www.nintendo.com/us/store/products/motogp-21-switch" target="_blank">eShop</a></td>
-            <td>Milestone</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience slowdown in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>MotoGP 22  <a href="https://www.nintendo.com/us/store/products/motogp-22-switch" target="_blank">eShop</a></td>
-            <td>Milestone</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience slowdown in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>MotoGP 23  <a href="https://www.nintendo.com/us/store/products/motogp-23-switch" target="_blank">eShop</a></td>
-            <td>Milestone</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience slowdown in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Nintendo Switch Sports  <a href="https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch" target="_blank">eShop</a></td>
-            <td>Nintendo</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Norn9: Var Commons  <a href="https://www.nintendo.com/us/store/products/norn9-var-commons-switch" target="_blank">eShop</a></td>
-            <td>Aksys Games</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Pikmin 3 Deluxe  <a href="https://www.nintendo.com/us/store/products/pikmin-3-deluxe-switch" target="_blank">eShop</a></td>
-            <td>Nintendo</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Redemption Reapers  <a href="https://www.nintendo.com/us/store/products/redemption-reapers-switch" target="_blank">eShop</a></td>
-            <td>Binary Haze Interactive</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Retro Classix 2-in-1 Pack: Express Raider & Shootout </td>
-            <td>Golem Entertainment</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire </td>
-            <td>Golem Entertainment</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Retro Classix 4in1 Pack: Sly Spy` Shootout, Wizard Fire & Super Real Darwin </td>
-            <td>Golem Entertainment</td>
-            <td>&#10067 Information unavailable on eShop.
-                </td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>S.N.I.P.E.R. - Hunter Scope  <a href="https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-switch" target="_blank">eShop</a></td>
-            <td>Baltoro Games</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Skateboard Drifting with Maxwell Cat: The Game Simulator  <a href="https://www.nintendo.com/us/store/products/skateboard-drifting-with-maxwell-cat-the-game-simulator-switch" target="_blank">eShop</a></td>
-            <td>GAMETOTOP.CC</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>"Connection failed" may appear even when the user's online.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Sportitions'24  <a href="https://www.nintendo.com/us/store/products/sportitions24-switch" target="_blank">eShop</a></td>
-            <td>FuriouSoftPhoenix</td>
-            <td></td>
-            <td></td>
-        </tr>
-        
-        <tr>
-            <td>Street Fighter 30th Anniversary Collection  <a href="https://www.nintendo.com/us/store/products/street-fighter-30th-anniversary-collection-switch" target="_blank">eShop</a></td>
-            <td>CAPCOM</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>When playing against a Nintendo Switch 2 user online, texture problems may appear on the Nintendo Switch user's player character.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Super Fowlst 2  <a href="https://www.nintendo.com/us/store/products/super-fowlst-2-switch" target="_blank">eShop</a></td>
-            <td>Thomas K Young</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Super Smash Bros. Ultimate  <a href="https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch" target="_blank">eShop</a></td>
-            <td>Nintendo</td>
-            <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
-                </td>
-            <td>Updated 06/26/2025<br>Previously identified issues have been resolved with an update.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Tomb Raider I-III Remastered Starring Lara Croft  <a href="https://www.nintendo.com/us/store/products/tomb-raider-i-iii-remastered-starring-lara-croft-switch" target="_blank">eShop</a></td>
-            <td>Aspyr</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience graphics problems in some areas.<br></td>
-        </tr>
-        
-        <tr>
-            <td>Trials Rising Standard Edition  <a href="https://www.nintendo.com/us/store/products/trials-rising-standard-edition-switch" target="_blank">eShop</a></td>
-            <td>Ubisoft</td>
-            <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
-                </td>
-            <td>Users may experience slowdown in some areas.<br></td>
-        </tr>
-        
-    </table>
+<body class="d-flex flex-column h-100">
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1 class="mt-5">Switch 2 Game Compatibility Tracker</h1>
+            <p class="lead">
+                Last updated at: 2025-06-27 01:46 UTC
+            </p>
+            <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch
+                eshop.
+                Meant to be
+                an up-to-date version of the PDFs on this page: <a
+                    href="https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/">
+                    https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games</a>.
+                Unaffiliated
+                with
+                Nintendo.
+            </p>
+            <p>
+                This webpage updates itself daily at 4am and 4pm UTC. Thanks to <a href=https://github.com/joshcampbell191>joshcampbell191</a> for making the page look nicer!
+            </p>
+            <p><small>
+                
+            </small></p>
 
-    </body>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Game</th>
+                        <th>Publisher</th>
+                        <th>Status</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/3-out-of-10-season-one-switch" target="_blank">3 out of 10: Season One</a>
+                            
+                        </td>
+                        <td>Terrible Posture Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/a-boy-and-his-blob-retro-collection-switch" target="_blank">A Boy and His Blob Retro Collection</a>
+                            
+                        </td>
+                        <td>Ziggurat</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/a-long-way-down-switch" target="_blank">A Long Way Down</a>
+                            
+                        </td>
+                        <td>Forever Entertainment</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/a-time-travellers-guide-to-past-delicacies-switch" target="_blank">A Time Traveller's Guide To Past Delicacies</a>
+                            
+                        </td>
+                        <td>Sometimes You</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/aeon-must-die-switch" target="_blank">Aeon Must Die!</a>
+                            
+                        </td>
+                        <td>Focus Entertainment</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/aeterna-noctis-switch" target="_blank">Aeterna Noctis</a>
+                            
+                        </td>
+                        <td>Aeternum Game Studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/afterdream-switch" target="_blank">Afterdream</a>
+                            
+                        </td>
+                        <td>Feardemic</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/aidan-in-danger-switch" target="_blank">Aidan In Danger</a>
+                            
+                        </td>
+                        <td>Brainium Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/amanda-the-adventurer-switch" target="_blank">Amanda the Adventurer</a>
+                            
+                        </td>
+                        <td>Dread XP</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/arcade-party-switch" target="_blank">Arcade Party</a>
+                            
+                        </td>
+                        <td>OddOneGames</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/assault-suit-leynos-2-saturn-tribute-switch" target="_blank">Assault Suit Leynos 2 Saturn Tribute</a>
+                            
+                        </td>
+                        <td>Clear River Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/astral-flux-switch" target="_blank">Astral Flux</a>
+                            
+                        </td>
+                        <td>Mindscape</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/bacon-man-an-adventure-switch" target="_blank">Bacon Man: An Adventure</a>
+                            
+                        </td>
+                        <td>Skymap Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            Bill & Ted's Excellent Retro Collection
+                            
+                        </td>
+                        <td>Limited Run Games</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/bloodshore-switch" target="_blank">Bloodshore</a>
+                            
+                        </td>
+                        <td>Wales Interactive</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/boot-hill-heroes-switch" target="_blank">Boot Hill Heroes</a>
+                            
+                        </td>
+                        <td>Experimental Gamer Studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/borderlands-3-ultimate-edition-switch" target="_blank">Borderlands 3 Ultimate Edition</a>
+                            
+                        </td>
+                        <td>Take-Two Interactive</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/botany-manor-switch" target="_blank">Botany Manor</a>
+                            
+                        </td>
+                        <td>Whitethorn Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/chickens-madness-switch" target="_blank">Chickens Madness</a>
+                            
+                        </td>
+                        <td>Vikong</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/chronicles-of-2-heroes-amaterasus-wrath-switch" target="_blank">Chronicles of 2 Heroes: Amaterasu's Wrath</a>
+                            
+                        </td>
+                        <td>Catness Game</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Addressed a problem with game progression as part of an update.<br>Game controls and explanatory text may not appear correctly in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/chrono-cross-the-radical-dreamers-edition-switch" target="_blank">CHRONO CROSS: THE RADICAL DREAMERS EDITION</a>
+                            
+                        </td>
+                        <td>SQUARE ENIX</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/clock-tower-rewind-switch" target="_blank">Clock Tower: Rewind</a>
+                            
+                        </td>
+                        <td>WayForward</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/crash-bandicoot-n-sane-trilogy-switch" target="_blank">Crash Bandicoot N. Sane Trilogy</a>
+                            
+                        </td>
+                        <td>Activision</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/crypt-of-the-necrodancer-nintendo-switch-edition-switch" target="_blank">Crypt of the NecroDancer: Nintendo Switch Edition</a>
+                            
+                        </td>
+                        <td>Brace Yourself Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>06/10/2025<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dark-nights-with-poe-and-munro-switch" target="_blank">Dark Nights with Poe and Munro</a>
+                            
+                        </td>
+                        <td>D'Avekki Studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dc-universe-online-switch" target="_blank">DC Universe Online</a>
+                            
+                        </td>
+                        <td>Daybreak Game Company</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dragons-lair-trilogy-switch" target="_blank">Dragon's Lair Trilogy</a>
+                            
+                        </td>
+                        <td>Digital Leisure</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dreamwalker-switch" target="_blank">Dreamwalker</a>
+                            
+                        </td>
+                        <td>Code Mystics</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dust-an-elysian-tail-switch" target="_blank">Dust: An Elysian Tail</a>
+                            
+                        </td>
+                        <td>Humble Hearts</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/escape-from-chernobyl-switch" target="_blank">Escape from Chernobyl</a>
+                            
+                        </td>
+                        <td>Atypical Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/fig-switch" target="_blank">fig.</a>
+                            
+                        </td>
+                        <td>Take IT Studio!</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/flan-switch" target="_blank">Flan</a>
+                            
+                        </td>
+                        <td>AnelaGamesStudio</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Gameplay experience on Nintendo Switch 2 confirmed to match experience on Nintendo Switch.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/forgotten-memories-switch" target="_blank">Forgotten Memories</a>
+                            
+                        </td>
+                        <td>Psychose Interactive</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/gang-beasts-switch" target="_blank">Gang Beasts</a>
+                            
+                        </td>
+                        <td>Boneloaf</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/gelly-break-deluxe-switch" target="_blank">Gelly Break Deluxe</a>
+                            
+                        </td>
+                        <td>ByteRockers Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/grid-autosport-switch" target="_blank">GRID Autosport</a>
+                            
+                        </td>
+                        <td>Codemasters</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/guilty-gear-xx-accent-core-plus-r-switch" target="_blank">GUILTY GEAR XX ACCENT CORE PLUS R</a>
+                            
+                        </td>
+                        <td>ARC SYSTEM WORKS</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/happy-hotel-switch" target="_blank">Happy Hotel</a>
+                            
+                        </td>
+                        <td>Nyakuza Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/highrise-heroes-word-challenge-switch" target="_blank">Highrise Heroes: Word Challenge</a>
+                            
+                        </td>
+                        <td>Fallen Tree Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/hitman-3-cloud-version-switch" target="_blank">HITMAN 3 - Cloud Version</a>
+                            
+                        </td>
+                        <td>IO Interactive</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/house-builder-switch" target="_blank">House Builder</a>
+                            
+                        </td>
+                        <td>Console Labs</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/in-my-shadow-switch" target="_blank">In My Shadow</a>
+                            
+                        </td>
+                        <td>OverGamez</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/inferno-2-switch" target="_blank">Inferno 2</a>
+                            
+                        </td>
+                        <td>2Awesome Studio</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/instant-chef-party-switch" target="_blank">INSTANT Chef Party</a>
+                            
+                        </td>
+                        <td>MAXIMUM ENT FRANCE</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/jurassic-park-classic-games-collection-switch" target="_blank">Jurassic Park Classic Games Collection</a>
+                            
+                        </td>
+                        <td>Limited Run Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/karmazoo-switch" target="_blank">KarmaZoo</a>
+                            
+                        </td>
+                        <td>Devolver Digital</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/kill-la-kill-if-switch" target="_blank">KILL la KILL -IF</a>
+                            
+                        </td>
+                        <td>ARC SYSTEM WORKS</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/killing-time-resurrected-switch" target="_blank">Killing Time: Resurrected</a>
+                            
+                        </td>
+                        <td>Nightdive Studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/laboratory-rat-escape-simulator-pro-switch" target="_blank">Laboratory Rat Escape Simulator Pro</a>
+                            
+                        </td>
+                        <td>Clockwork Moon</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/labyrinth-of-galleria-the-moon-society-switch" target="_blank">Labyrinth of Galleria: The Moon Society</a>
+                            
+                        </td>
+                        <td>NIS America</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/layer-section-and-galactic-attack-s-tribute-switch" target="_blank">Layer Section & Galactic Attack S-Tribute</a>
+                            
+                        </td>
+                        <td>City Connection</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/library-of-ruina-switch" target="_blank">Library Of Ruina</a>
+                            
+                        </td>
+                        <td>ARC SYSTEM WORKS</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/malignant-survivors-switch" target="_blank">Malignant Survivors</a>
+                            
+                        </td>
+                        <td>Brain Connected</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch" target="_blank">Manticore - Galaxy on Fire</a>
+                            
+                        </td>
+                        <td>PLAION</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/marvel-vs-capcom-fighting-collection-arcade-classics-switch" target="_blank">MARVEL vs. CAPCOM Fighting Collection: Arcade Classics</a>
+                            
+                        </td>
+                        <td>CAPCOM</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/mega-mall-story-2-switch" target="_blank">Mega Mall Story 2</a>
+                            
+                        </td>
+                        <td>Kairosoft</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/meganoid-switch" target="_blank">Meganoid</a>
+                            
+                        </td>
+                        <td>Orange Pixel</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/megaton-rainfall-switch" target="_blank">Megaton Rainfall</a>
+                            
+                        </td>
+                        <td>Pentadimensional</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/mia-and-me-magic-friends-switch" target="_blank">Mia and me - Magic Friends</a>
+                            
+                        </td>
+                        <td>TREVA</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/minigolf-adventure-switch" target="_blank">Minigolf Adventure</a>
+                            
+                        </td>
+                        <td>Revulo Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/model-debut3-nicola-switch" target="_blank">MODEL Debut3 #nicola</a>
+                            
+                        </td>
+                        <td>FURYU Corporation</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/mortal-kombat-1-switch" target="_blank">Mortal Kombat 1</a>
+                            
+                        </td>
+                        <td>WB Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/my-memory-of-us-switch" target="_blank">My Memory of Us</a>
+                            
+                        </td>
+                        <td>Crunching Koalas</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            NASCAR Rivals
+                            
+                        </td>
+                        <td>Motorsport Games</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/nekopara-vol-1-switch" target="_blank">NEKOPARA Vol.1</a>
+                            
+                        </td>
+                        <td>CFK</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/nekopara-vol-2-switch" target="_blank">NEKOPARA Vol.2</a>
+                            
+                        </td>
+                        <td>CFK</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/neverwinter-nights-enhanced-edition-switch" target="_blank">Neverwinter Nights: Enhanced Edition</a>
+                            
+                        </td>
+                        <td>Beamdog</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch" target="_blank">NieR:Automata The End of YoRHa Edition</a>
+                            
+                        </td>
+                        <td>SQUARE ENIX</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/ninja-five-o-switch" target="_blank">Ninja Five-O</a>
+                            
+                        </td>
+                        <td>KONAMI</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/ninjala-switch" target="_blank">Ninjala</a>
+                            
+                        </td>
+                        <td>GUNGHOONLINE</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/nobody-saves-the-world-switch" target="_blank">Nobody Saves the World</a>
+                            
+                        </td>
+                        <td>DrinkBox Studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/oddworld-strangers-wrath-switch" target="_blank">Oddworld: Stranger's Wrath</a>
+                            
+                        </td>
+                        <td>Oddworld Inhabitants</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            OK K.O.! Let's Play Heroes
+                            
+                        </td>
+                        <td>Cartoon Network Games</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/otto-switch" target="_blank">Otto</a>
+                            
+                        </td>
+                        <td>34BigThings</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch" target="_blank">Overcooked! All You Can Eat</a>
+                            
+                        </td>
+                        <td>Team17</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/overdriven-reloaded-special-edition-switch" target="_blank">Overdriven Reloaded: Special Edition</a>
+                            
+                        </td>
+                        <td>TOMAGameStudio</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/overwatch-2-switch" target="_blank">Overwatch 2</a>
+                            
+                        </td>
+                        <td>Blizzard Entertainment</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/plants-vs-zombies-battle-for-neighborville-complete-edition-switch" target="_blank">Plants vs. Zombies: Battle for Neighborville Complete Edition</a>
+                            
+                        </td>
+                        <td>Electronic Arts</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/quell-memento-switch" target="_blank">Quell Memento</a>
+                            
+                        </td>
+                        <td>Fallen Tree Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/quell-zen-switch" target="_blank">Quell Zen</a>
+                            
+                        </td>
+                        <td>Fallen Tree Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/quick-race-switch" target="_blank">Quick Race</a>
+                            
+                        </td>
+                        <td>SOURCE BYTE</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/radiation-city-switch" target="_blank">Radiation City</a>
+                            
+                        </td>
+                        <td>Atypical Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/raiden-iii-x-mikado-maniax-switch" target="_blank">Raiden III x MIKADO MANIAX</a>
+                            
+                        </td>
+                        <td>NIS America</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/raiden-iv-x-mikado-remix-switch" target="_blank">Raiden IV x MIKADO remix</a>
+                            
+                        </td>
+                        <td>UFO Interactive</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/remothered-tormented-fathers-switch" target="_blank">Remothered: Tormented Fathers</a>
+                            
+                        </td>
+                        <td>Soedesco</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes
+                            
+                        </td>
+                        <td>Golem Entertainment</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/rico-switch" target="_blank">RICO</a>
+                            
+                        </td>
+                        <td>Thunderful Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/rifftrax-the-game-switch" target="_blank">RiffTrax: The Game</a>
+                            
+                        </td>
+                        <td>Wide Right Interactive</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/river-city-girls-zero-switch" target="_blank">River City Girls Zero</a>
+                            
+                        </td>
+                        <td>WayForward</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/roller-champions-switch" target="_blank">Roller Champions</a>
+                            
+                        </td>
+                        <td>Ubisoft</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/root-double-before-crime-after-days-xtend-edition-switch" target="_blank">Root Double -Before Crime * After Days- Xtend Edition</a>
+                            
+                        </td>
+                        <td>Sekai Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/saviors-of-sapphire-wings-stranger-of-sword-city-revisited-switch" target="_blank">Saviors of Sapphire Wings / Stranger of Sword City Revisited</a>
+                            
+                        </td>
+                        <td>NIS America</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/secret-neighbor-switch" target="_blank">Secret Neighbor</a>
+                            
+                        </td>
+                        <td>tinyBuild Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/skies-above-switch" target="_blank">Skies Above</a>
+                            
+                        </td>
+                        <td>Flynns Arcade</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/smilebasic-4-switch" target="_blank">SmileBASIC 4</a>
+                            
+                        </td>
+                        <td>SmileBoom</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/soul-dog-td-switch" target="_blank">Soul Dog TD</a>
+                            
+                        </td>
+                        <td>Waku Waku Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/south-of-the-circle-switch" target="_blank">South of the Circle</a>
+                            
+                        </td>
+                        <td>11 bit studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-standard-edition-switch" target="_blank">South Park: The Fractured but Whole - Standard Edition</a>
+                            
+                        </td>
+                        <td>Ubisoft</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/star-wars-republic-commando-switch" target="_blank">STAR WARS Republic Commando</a>
+                            
+                        </td>
+                        <td>Aspyr</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch" target="_blank">STAR WARS: Knights of the Old Republic II: The Sith Lords</a>
+                            
+                        </td>
+                        <td>Aspyr</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/stranded-sails-explorers-of-the-cursed-islands-switch" target="_blank">Stranded Sails - Explorers of the Cursed Islands</a>
+                            
+                        </td>
+                        <td>Rokaplay</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/strania-the-stella-machina-ex-switch" target="_blank">Strania -The Stella Machina- EX</a>
+                            
+                        </td>
+                        <td>G.rev</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/stumble-guys-switch" target="_blank">Stumble Guys</a>
+                            
+                        </td>
+                        <td>Scopely</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/super-mega-baseball-4-switch" target="_blank">Super Mega Baseball 4</a>
+                            
+                        </td>
+                        <td>Electronic Arts</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/the-final-station-switch" target="_blank">The Final Station</a>
+                            
+                        </td>
+                        <td>tinyBuild Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/the-mean-greens-plastic-warfare-switch" target="_blank">The Mean Greens - Plastic Warfare</a>
+                            
+                        </td>
+                        <td>Virtual Basement</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/the-wild-case-switch" target="_blank">The Wild Case</a>
+                            
+                        </td>
+                        <td>Maxim Ryadchik</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/they-bleed-pixels-switch" target="_blank">They Bleed Pixels</a>
+                            
+                        </td>
+                        <td>Spooky Squid Games Incorporated</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/this-war-of-mine-complete-edition-switch" target="_blank">This War of Mine: Complete Edition</a>
+                            
+                        </td>
+                        <td>11 bit studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/timespinner-switch" target="_blank">Timespinner</a>
+                            
+                        </td>
+                        <td>Lunar Ray Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/tiny-lands-switch" target="_blank">Tiny Lands</a>
+                            
+                        </td>
+                        <td>naptime.games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/tokyo-xanadu-ex-plus-switch" target="_blank">Tokyo Xanadu eX+</a>
+                            
+                        </td>
+                        <td>Aksys Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/tomba-special-edition-switch" target="_blank">Tomba! Special Edition</a>
+                            
+                        </td>
+                        <td>Limited Run Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/tony-hawks-pro-skater-1-plus-2-switch" target="_blank">Tony Hawk's Pro Skater 1 + 2</a>
+                            
+                        </td>
+                        <td>Activision</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/touhou-genso-wanderer-reloaded-switch" target="_blank">Touhou Genso Wanderer Reloaded</a>
+                            
+                        </td>
+                        <td>NIS America</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/touhou-gouyoku-ibun-sunken-fossil-world-switch" target="_blank">Touhou Gouyoku Ibun ~ Sunken Fossil World.</a>
+                            
+                        </td>
+                        <td>Phoenixx</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/trenga-unlimited-switch" target="_blank">Trenga Unlimited</a>
+                            
+                        </td>
+                        <td>Flux Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/trip-world-dx-switch" target="_blank">Trip World DX</a>
+                            
+                        </td>
+                        <td>SUNSOFT</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/trove-switch" target="_blank">Trove</a>
+                            
+                        </td>
+                        <td>gamigo US</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/trover-saves-the-universe-switch" target="_blank">Trover Saves the Universe</a>
+                            
+                        </td>
+                        <td>Squanch Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/tt-isle-of-man-ride-on-the-edge-3-switch" target="_blank">TT Isle of Man: Ride on the Edge 3</a>
+                            
+                        </td>
+                        <td>Nacon</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/ty-the-tasmanian-tiger-hd-switch" target="_blank">TY the Tasmanian Tiger HD</a>
+                            
+                        </td>
+                        <td>Krome Studios</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/uncle-chops-rocket-shop-switch" target="_blank">Uncle Chop's Rocket Shop</a>
+                            
+                        </td>
+                        <td>Kasedo Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/warface-clutch-switch" target="_blank">Warface: Clutch</a>
+                            
+                        </td>
+                        <td>MY.GAMES</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/warframe-switch" target="_blank">Warframe</a>
+                            
+                        </td>
+                        <td>Digital Extremes</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Addressed a problem with game progression as part of an update.<br>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/warp-shift-switch" target="_blank">Warp Shift</a>
+                            
+                        </td>
+                        <td>Kyrkudden</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/warriors-abyss-switch" target="_blank">WARRIORS: Abyss</a>
+                            
+                        </td>
+                        <td>KOEI TECMO AMERICA</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/what-the-dub-switch" target="_blank">What the Dub?!</a>
+                            
+                        </td>
+                        <td>Wide Right Interactive</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/where-the-bees-make-honey-switch" target="_blank">Where the Bees Make Honey</a>
+                            
+                        </td>
+                        <td>Whitethorn Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/wild-seas-switch" target="_blank">Wild Seas</a>
+                            
+                        </td>
+                        <td>Afil Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/wildfire-switch" target="_blank">Wildfire</a>
+                            
+                        </td>
+                        <td>Humble Games</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/wrc-8-fia-world-rally-championship-switch" target="_blank">WRC 8 FIA World Rally Championship</a>
+                            
+                        </td>
+                        <td>Nacon</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/wrc-9-the-official-game-switch" target="_blank">WRC 9 The Official Game</a>
+                            
+                        </td>
+                        <td>Nacon</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/yomawari-lost-in-the-dark-switch" target="_blank">Yomawari: Lost in the Dark</a>
+                            
+                        </td>
+                        <td>NIS America</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/youtube-switch" target="_blank">YouTube</a>
+                            
+                        </td>
+                        <td>Google</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/ziksquare-switch" target="_blank">ZikSquare</a>
+                            
+                        </td>
+                        <td>TOMAGameStudio</td>
+                        <td>&#10060 Unsupported – Problems with game progression have been found.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/abyss-memory-fallen-angel-and-the-path-of-magic-switch" target="_blank">Abyss Memory Fallen Angel and the Path of Magic</a>
+                            
+                        </td>
+                        <td>Byking</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Waiting on the title screen for around 30 seconds causes a problem. The user can continue past the title screen to avoid the problem.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/beyond-enemy-lines-remastered-edition-switch" target="_blank">Beyond Enemy Lines - Remastered Edition</a>
+                            
+                        </td>
+                        <td>Polygon Art</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/capcom-fighting-collection-2-switch" target="_blank">Capcom Fighting Collection 2</a>
+                            
+                        </td>
+                        <td>CAPCOM</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/car-detailing-simulator-switch" target="_blank">Car Detailing Simulator</a>
+                            
+                        </td>
+                        <td>Ultimate Games</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dadish-switch" target="_blank">Dadish</a>
+                            
+                        </td>
+                        <td>Thomas K Young</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Grid lines may appear on parts of the screen.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/dairoku-agents-of-sakuratani-switch" target="_blank">Dairoku: Agents of Sakuratani</a>
+                            
+                        </td>
+                        <td>Aksys Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/everyday-todays-menu-for-emiya-family-switch" target="_blank">Everyday Today's MENU for EMIYA Family</a>
+                            
+                        </td>
+                        <td>Aniplex</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/genso-manege-switch" target="_blank">Genso Manege</a>
+                            
+                        </td>
+                        <td>PQube</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/giana-sisters-twisted-dreams-owltimate-edition-switch" target="_blank">Giana Sisters: Twisted Dreams - Owltimate Edition</a>
+                            
+                        </td>
+                        <td>HandyGames</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/go-vacation-switch" target="_blank">Go Vacation</a>
+                            
+                        </td>
+                        <td>Nintendo</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience slowdown in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/godlike-burger-switch" target="_blank">Godlike Burger</a>
+                            
+                        </td>
+                        <td>Daedalic Entertainment</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/guardian-tales-switch" target="_blank">Guardian Tales</a>
+                            
+                        </td>
+                        <td>Kong Studios</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Part of the opening sequence may not appear if the user quickly presses buttons after starting the game.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/kero-blaster-switch" target="_blank">Kero Blaster</a>
+                            
+                        </td>
+                        <td>PLAYSIM</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-switch" target="_blank">LAYTON'S MYSTERY JOURNEY: Katrielle and the Millionaires' Conspiracy - Deluxe Edition</a>
+                            
+                        </td>
+                        <td>LEVEL5</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/limbo-switch" target="_blank">LIMBO</a>
+                            
+                        </td>
+                        <td>Playdead</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>The game may occasionally shut down when the user performs certain inputs in specific areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/motogp-21-switch" target="_blank">MotoGP 21</a>
+                            
+                        </td>
+                        <td>Milestone</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience slowdown in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/motogp-22-switch" target="_blank">MotoGP 22</a>
+                            
+                        </td>
+                        <td>Milestone</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience slowdown in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/motogp-23-switch" target="_blank">MotoGP 23</a>
+                            
+                        </td>
+                        <td>Milestone</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience slowdown in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch" target="_blank">Nintendo Switch Sports</a>
+                            
+                        </td>
+                        <td>Nintendo</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/norn9-var-commons-switch" target="_blank">Norn9: Var Commons</a>
+                            
+                        </td>
+                        <td>Aksys Games</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/pikmin-3-deluxe-switch" target="_blank">Pikmin 3 Deluxe</a>
+                            
+                        </td>
+                        <td>Nintendo</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/redemption-reapers-switch" target="_blank">Redemption Reapers</a>
+                            
+                        </td>
+                        <td>Binary Haze Interactive</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            Retro Classix 2-in-1 Pack: Express Raider & Shootout
+                            
+                        </td>
+                        <td>Golem Entertainment</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire
+                            
+                        </td>
+                        <td>Golem Entertainment</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            Retro Classix 4in1 Pack: Sly Spy` Shootout, Wizard Fire & Super Real Darwin
+                            
+                        </td>
+                        <td>Golem Entertainment</td>
+                        <td>&#10067 Information unavailable on eShop.
+                            </td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-switch" target="_blank">S.N.I.P.E.R. - Hunter Scope</a>
+                            
+                        </td>
+                        <td>Baltoro Games</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/skateboard-drifting-with-maxwell-cat-the-game-simulator-switch" target="_blank">Skateboard Drifting with Maxwell Cat: The Game Simulator</a>
+                            
+                        </td>
+                        <td>GAMETOTOP.CC</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>"Connection failed" may appear even when the user's online.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/sportitions24-switch" target="_blank">Sportitions'24</a>
+                            
+                        </td>
+                        <td>FuriouSoftPhoenix</td>
+                        <td></td>
+                        <td>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/street-fighter-30th-anniversary-collection-switch" target="_blank">Street Fighter 30th Anniversary Collection</a>
+                            
+                        </td>
+                        <td>CAPCOM</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>When playing against a Nintendo Switch 2 user online, texture problems may appear on the Nintendo Switch user's player character.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/super-fowlst-2-switch" target="_blank">Super Fowlst 2</a>
+                            
+                        </td>
+                        <td>Thomas K Young</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/19/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch" target="_blank">Super Smash Bros. Ultimate</a>
+                            
+                        </td>
+                        <td>Nintendo</td>
+                        <td>&#9989 Supported – Game behavior is consistent with Nintendo Switch.
+                            </td>
+                        <td>Updated 06/26/2025<br>Previously identified issues have been resolved with an update.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/tomb-raider-i-iii-remastered-starring-lara-croft-switch" target="_blank">Tomb Raider I-III Remastered Starring Lara Croft</a>
+                            
+                        </td>
+                        <td>Aspyr</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience graphics problems in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            
+                            <a href="https://www.nintendo.com/us/store/products/trials-rising-standard-edition-switch" target="_blank">Trials Rising Standard Edition</a>
+                            
+                        </td>
+                        <td>Ubisoft</td>
+                        <td>&#9989 Supported – Game behavior may vary from Nintendo Switch.
+                            </td>
+                        <td>Users may experience slowdown in some areas.<br>
+                        </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+    </main>
+    <div class="container">
+        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+            <div class="col-md-4 d-flex align-items-center">
+                <span class="mb-3 mb-md-0 text-body-secondary">© 2025 Marcus Williamson</span>
+            </div>
+            <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+                <li class="ms-3"><a class="text-body-secondary"
+                        href="https://github.com/MarcusWilliamson/Switch2CompatTracker" aria-label="GitHub"><svg
+                            class="bi" width="24" height="24" aria-hidden="true">
+                            <use xlink:href="bootstrap-icons.svg#github" />
+                        </svg></a></li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.3.2/datatables.min.js"
+        integrity="sha384-F5wD4YVHPFcdPbOt91vfXz6ZUTjeWsy4mJlvR4duPvlQdnq704Bh6DxV1BJy3gA2"
+        crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        (function () {
+            new DataTable('.table');
+        })();
+    </script>
+</body>
+
 </html>
