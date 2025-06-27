@@ -1,48 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
-</style>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Switch 2 Game Compatibility Tracker</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.3.2/datatables.min.css" rel="stylesheet"
+        integrity="sha384-oy6ZmHnH9nTuDaccEOUPX5BSJbGKwDpz3u3XiFJBdNXDpAAZh28v/4zfMCU7o63p" crossorigin="anonymous">
 </head>
-<body>
-    <h1>Switch 2 Game Compatibility Tracker</h1>
-    <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch eshop. Meant to be
-        an up-to-date version of the PDFs on this page: <a href="https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/">
-            https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games</a>. Unaffiliated with Nintendo.
-    </p>
-    <p>
-        This webpage updates itself daily at 4am and 4pm UTC. And yes, I know it's ugly, I don't know CSS :'(
-    </p>
-    <p>
-        Last updated at: {{ time_updated }} UTC
-    </p>
 
-    <table>
-        <tr>
-            <th>Game</th>
-            <th>Publisher</th>
-            <th>Status</th>
-            <th>Details</th>
-        </tr>
-        {% for game in games %}
-        <tr>
-            <td>{{ game.title }} {% if not game.status == "404" %} <a href="{{ game.url }}" target="_blank">eShop</a>{% endif %}</td>
-            <td>{{ game.publisher }}</td>
-            <td>{% if game.status == "404" %}&#10067 Information unavailable on eShop.
-                {% elif game.status == "PLAYABLE" %}&#9989 {{ game.caption }}
-                {% elif game.status == "NOT_PLAYABLE" %}&#10060 {{ game.caption }}
-                {% endif %}</td>
-            <td>{% if game.details %}{% for detail in game.details %}{{ detail }}<br>{% endfor %}{% endif %}</td>
-        </tr>
-        {% endfor %}
-    </table>
+<body class="d-flex flex-column h-100">
+    <main class="flex-shrink-0">
+        <div class="container">
+            <h1 class="mt-5">Switch 2 Game Compatibility Tracker</h1>
+            <p class="lead">
+                Last updated at: {{ time_updated }} UTC
+            </p>
+            <p>This site tracks the compatibility of Switch 1 games with the Switch 2, using information on the Switch
+                eshop.
+                Meant to be
+                an up-to-date version of the PDFs on this page: <a
+                    href="https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games/">
+                    https://www.nintendo.com/us/gaming-systems/switch-2/transfer-guide/compatible-games</a>.
+                Unaffiliated
+                with
+                Nintendo.
+            </p>
+            <p>
+                This webpage updates itself daily at 4am and 4pm UTC.
+            </p>
 
-    </body>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Game</th>
+                        <th>Publisher</th>
+                        <th>Status</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for game in games %}
+                    <tr>
+                        <td>
+                            {% if not game.status == "404" %}
+                            <a href="{{ game.url }}" target="_blank">{{ game.title }}</a>
+                            {% else %}
+                            {{ game.title }}
+                            {% endif %}
+                        </td>
+                        <td>{{ game.publisher }}</td>
+                        <td>{% if game.status == "404" %}&#10067 Information unavailable on eShop.
+                            {% elif game.status == "PLAYABLE" %}&#9989 {{ game.caption }}
+                            {% elif game.status == "NOT_PLAYABLE" %}&#10060 {{ game.caption }}
+                            {% endif %}</td>
+                        <td>{% if game.details %}{% for detail in game.details %}{{ detail }}<br>{% endfor %}{% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </main>
+    <div class="container">
+        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+            <div class="col-md-4 d-flex align-items-center">
+                <span class="mb-3 mb-md-0 text-body-secondary">© 2025 Marcus Williamson</span>
+            </div>
+            <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+                <li class="ms-3"><a class="text-body-secondary"
+                        href="https://github.com/MarcusWilliamson/Switch2CompatTracker" aria-label="GitHub"><svg
+                            class="bi" width="24" height="24" aria-hidden="true">
+                            <use xlink:href="bootstrap-icons.svg#github" />
+                        </svg></a></li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.3.2/datatables.min.js"
+        integrity="sha384-F5wD4YVHPFcdPbOt91vfXz6ZUTjeWsy4mJlvR4duPvlQdnq704Bh6DxV1BJy3gA2"
+        crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        (function () {
+            new DataTable('.table');
+        })();
+    </script>
+</body>
+
 </html>
