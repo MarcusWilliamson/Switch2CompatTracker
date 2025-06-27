@@ -627,10 +627,13 @@
     "url": "https://www.nintendo.com/us/store/products/malignant-survivors-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Manticore - Galaxy on Fire",
@@ -674,10 +677,13 @@
     "url": "https://www.nintendo.com/us/store/products/meganoid-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Megaton Rainfall",
@@ -951,10 +957,13 @@
     "url": "https://www.nintendo.com/us/store/products/quick-race-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Radiation City",
@@ -962,10 +971,13 @@
     "url": "https://www.nintendo.com/us/store/products/radiation-city-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Raiden III x MIKADO MANIAX",
@@ -1035,10 +1047,13 @@
     "url": "https://www.nintendo.com/us/store/products/river-city-girls-zero-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Roller Champions",
@@ -1046,10 +1061,13 @@
     "url": "https://www.nintendo.com/us/store/products/roller-champions-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Root Double -Before Crime * After Days- Xtend Edition",
@@ -1378,10 +1396,13 @@
     "url": "https://www.nintendo.com/us/store/products/trip-world-dx-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Trove",
@@ -1966,10 +1987,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Users may experience graphics problems in some areas."
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
@@ -1979,12 +2001,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game progression may be affected in portions of the game.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Updated 06/19/2025",
-      "Fixed: When playing online, when a Nintendo Switch 2 player and Nintendo Switch player were matched and someone was using Mii Fighter, it was possible for the match to end immediately.",
-      "When creating or editing and saving a Mii Fighter, the thumbnail image showing the Mii Fighter may not appear correctly. This may be improved by saving it again. This is planned to be fixed in the near future."
+      "Updated 06/26/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
