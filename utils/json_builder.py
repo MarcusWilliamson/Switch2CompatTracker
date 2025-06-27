@@ -1,7 +1,7 @@
 import csv
 import json
 
-files = [("assets/progress_issues.csv", "Progress issues"), ("assets/updated.csv", "Updated")]
+files = [("utils/assets/progress_issues.csv", "Progress issues"), ("utils/assets/updated.csv", "Updated"), ("utils/assets/custom.csv", "Custom")]
 data = []
 
 # Attempts to convert game title to eshop url
@@ -35,7 +35,7 @@ def main():
     for file in files:
         data += generate(file[0], file[1])
             
-    with open("../src/json/game_list.json", 'w') as json_file:
+    with open("src/json/game_list.json", 'w') as json_file:
         json.dump(data, json_file, indent=2)
     json_file.close()
     print("Done")

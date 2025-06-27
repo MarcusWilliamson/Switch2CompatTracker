@@ -56,7 +56,7 @@
                             {% endif %}
                         </td>
                         <td>{{ game.publisher }}</td>
-                        <td>{% if game.status == "404" %}&#10067 Information unavailable on eShop.
+                        <td>{% if game.status == "404" or game.status == "info_missing" %}&#10067 Information unavailable on eShop.
                             {% elif game.status == "PLAYABLE" %}&#9989 {{ game.caption }}
                             {% elif game.status == "NOT_PLAYABLE" %}&#10060 {{ game.caption }}
                             {% endif %}</td>

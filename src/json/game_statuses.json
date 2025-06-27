@@ -2039,5 +2039,25 @@
     "details": [
       "Users may experience slowdown in some areas."
     ]
+  },
+  {
+    "title": "Portal: Companion Collection",
+    "publisher": "Valve",
+    "url": "https://www.nintendo.com/us/store/products/portal-companion-collection-switch",
+    "group": "Custom",
+    "status": "info_missing"
+  },
+  {
+    "title": "Portal 2",
+    "publisher": "Valve",
+    "url": "https://www.nintendo.com/us/store/products/portal-2-switch",
+    "group": "Custom",
+    "__typename": "Compatibility",
+    "status": "NOT_PLAYABLE",
+    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "captionNote": null,
+    "details": [
+      "6/10/2025"
+    ]
   }
 ]

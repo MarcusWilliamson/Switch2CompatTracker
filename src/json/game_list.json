@@ -1012,5 +1012,17 @@
     "publisher": "Ubisoft",
     "url": "https://www.nintendo.com/us/store/products/trials-rising-standard-edition-switch",
     "group": "Updated"
+  },
+  {
+    "title": "Portal: Companion Collection",
+    "publisher": "Valve",
+    "url": "https://www.nintendo.com/us/store/products/portal-companion-collection-switch",
+    "group": "Custom"
+  },
+  {
+    "title": "Portal 2",
+    "publisher": "Valve",
+    "url": "https://www.nintendo.com/us/store/products/portal-2-switch",
+    "group": "Custom"
   }
 ]
