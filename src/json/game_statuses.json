@@ -1036,10 +1036,13 @@
     "url": "https://www.nintendo.com/us/store/products/rifftrax-the-game-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "River City Girls Zero",
@@ -1349,10 +1352,13 @@
     "url": "https://www.nintendo.com/us/store/products/tony-hawks-pro-skater-1-plus-2-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Touhou Genso Wanderer Reloaded",
