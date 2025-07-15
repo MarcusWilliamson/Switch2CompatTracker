@@ -155,10 +155,12 @@
     "url": "https://www.nintendo.com/us/store/products/bacon-man-an-adventure-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Bill & Ted's Excellent Retro Collection",
@@ -282,11 +284,11 @@
     "url": "https://www.nintendo.com/us/store/products/crypt-of-the-necrodancer-nintendo-switch-edition-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "06/10/2025"
+      "Update 07/15/2025"
     ]
   },
   {
@@ -320,10 +322,12 @@
     "url": "https://www.nintendo.com/us/store/products/dragons-lair-trilogy-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Dreamwalker",
@@ -467,10 +471,12 @@
     "url": "https://www.nintendo.com/us/store/products/highrise-heroes-word-challenge-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "HITMAN 3 - Cloud Version",
@@ -594,10 +600,12 @@
     "url": "https://www.nintendo.com/us/store/products/labyrinth-of-galleria-the-moon-society-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Layer Section & Galactic Attack S-Tribute",
@@ -641,10 +649,12 @@
     "url": "https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
@@ -776,10 +786,12 @@
     "url": "https://www.nintendo.com/us/store/products/nekopara-vol-1-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "NEKOPARA Vol.2",
@@ -787,10 +799,12 @@
     "url": "https://www.nintendo.com/us/store/products/nekopara-vol-2-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Neverwinter Nights: Enhanced Edition",
@@ -935,10 +949,12 @@
     "url": "https://www.nintendo.com/us/store/products/quell-memento-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Quell Zen",
@@ -1092,10 +1108,12 @@
     "url": "https://www.nintendo.com/us/store/products/saviors-of-sapphire-wings-stranger-of-sword-city-revisited-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Secret Neighbor",
@@ -1503,10 +1521,12 @@
     "url": "https://www.nintendo.com/us/store/products/warp-shift-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "WARRIORS: Abyss",
@@ -1916,10 +1936,10 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Users may experience graphics problems in some areas."
+      "Update 07/15/2025"
     ]
   },
   {
@@ -2056,11 +2076,11 @@
     "url": "https://www.nintendo.com/us/store/products/portal-2-switch",
     "group": "Custom",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "6/10/2025"
+      "Update 07/15/2025"
     ]
   }
 ]
