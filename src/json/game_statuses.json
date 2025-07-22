@@ -649,12 +649,10 @@
     "url": "https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "status": "NOT_PLAYABLE",
+    "caption": "Unsupported \u2013 Problems with game progression have been found.",
     "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "details": []
   },
   {
     "title": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
