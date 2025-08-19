@@ -859,10 +859,12 @@
     "url": "https://www.nintendo.com/us/store/products/nobody-saves-the-world-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 08/19/2025"
+    ]
   },
   {
     "title": "Oddworld: Stranger's Wrath",
