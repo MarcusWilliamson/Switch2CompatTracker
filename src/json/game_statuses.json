@@ -585,9 +585,8 @@
     "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Update 09/02/2025",
-      "Previously identified issues have been resolved with an update.",
-      ""
+      "Update 09/23/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
@@ -656,11 +655,11 @@
     "url": "https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "status": "NOT_PLAYABLE",
+    "caption": "Unsupported \u2013 Problems with game progression have been found.",
     "captionNote": null,
     "details": [
-      "Update 07/15/2025"
+      "Update 09/23/2025"
     ]
   },
   {
