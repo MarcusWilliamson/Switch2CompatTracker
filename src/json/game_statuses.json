@@ -2023,7 +2023,13 @@
     "publisher": "FuriouSoftPhoenix",
     "url": "https://www.nintendo.com/us/store/products/sportitions24-switch",
     "group": "Updated",
-    "status": "info_missing"
+    "__typename": "Compatibility",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "captionNote": null,
+    "details": [
+      "Users may experience graphics problems in some areas."
+    ]
   },
   {
     "title": "Street Fighter 30th Anniversary Collection",
