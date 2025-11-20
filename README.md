@@ -1,6 +1,6 @@
 # Switch 2 Game Compatibility Tracker
 
-Update: Nintendo has an official site for this now: https://switch-software-compatibility.nintendo.com/
+**Update:** Nintendo has an official site for this now: https://switch-software-compatibility.nintendo.com/
 
 
 Live page: [(click here!) https://marcuswilliamson.github.io/Switch2CompatTracker/](https://marcuswilliamson.github.io/Switch2CompatTracker/)
