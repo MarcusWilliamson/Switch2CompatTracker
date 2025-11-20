@@ -119,10 +119,13 @@
     "url": "https://www.nintendo.com/us/store/products/arcade-party-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Assault Suit Leynos 2 Saturn Tribute",
@@ -130,10 +133,13 @@
     "url": "https://www.nintendo.com/us/store/products/assault-suit-leynos-2-saturn-tribute-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Astral Flux",
@@ -487,10 +493,13 @@
     "url": "https://www.nintendo.com/us/store/products/hitman-3-cloud-version-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "House Builder",
@@ -559,10 +568,13 @@
     "url": "https://www.nintendo.com/us/store/products/karmazoo-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "KILL la KILL -IF",
@@ -903,10 +915,13 @@
     "url": "https://www.nintendo.com/us/store/products/otto-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Overcooked! All You Can Eat",
@@ -1322,10 +1337,13 @@
     "url": "https://www.nintendo.com/us/store/products/they-bleed-pixels-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "This War of Mine: Complete Edition",
@@ -1369,10 +1387,13 @@
     "url": "https://www.nintendo.com/us/store/products/tokyo-xanadu-ex-plus-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Tomba! Special Edition",
@@ -1408,10 +1429,13 @@
     "url": "https://www.nintendo.com/us/store/products/touhou-genso-wanderer-reloaded-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World.",
@@ -1522,12 +1546,11 @@
     "url": "https://www.nintendo.com/us/store/products/warface-clutch-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "status": "NOT_PLAYABLE",
+    "caption": "Unsupported \u2013 Problems with game progression have been found.",
     "captionNote": null,
     "details": [
-      "Update 09/09/2025",
-      "Previously identified issues have been resolved with an update."
+      "Update 11/04/2025"
     ]
   },
   {
@@ -1689,10 +1712,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Waiting on the title screen for around 30 seconds causes a problem. The user can continue past the title screen to avoid the problem."
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
@@ -1729,10 +1753,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Users may experience graphics problems in some areas."
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
@@ -1782,10 +1807,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Users may experience graphics problems in some areas."
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
@@ -1821,10 +1847,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Users may experience graphics problems in some areas."
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
@@ -1999,10 +2026,11 @@
     "group": "Updated",
     "__typename": "Compatibility",
     "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Users may experience graphics problems in some areas."
+      "Update 11/11/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {

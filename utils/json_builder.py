@@ -1,3 +1,5 @@
+# Builds the json src/json/game_list.json from the csv files listed below in "files." Converts a set of csv lists of game titles and publishers to a
+# json of game titles, publishers, and eshop URLs.
 import csv
 import json
 
