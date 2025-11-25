@@ -290,11 +290,11 @@
     "url": "https://www.nintendo.com/us/store/products/crypt-of-the-necrodancer-nintendo-switch-edition-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "status": "NOT_PLAYABLE",
+    "caption": "Unsupported \u2013 Problems with game progression have been found.",
     "captionNote": null,
     "details": [
-      "Update 07/15/2025"
+      "Update 11/25/2025"
     ]
   },
   {
@@ -844,10 +844,13 @@
     "url": "https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/25/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Ninja Five-O",
@@ -1165,10 +1168,13 @@
     "url": "https://www.nintendo.com/us/store/products/skies-above-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/25/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "SmileBASIC 4",
@@ -1287,10 +1293,13 @@
     "url": "https://www.nintendo.com/us/store/products/super-mega-baseball-4-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 11/25/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "The Final Station",
@@ -1864,7 +1873,8 @@
     "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
     "captionNote": null,
     "details": [
-      "Part of the opening sequence may not appear if the user quickly presses buttons after starting the game."
+      "Update 11/25/2025",
+      "Previously identified issues have been resolved with an update."
     ]
   },
   {
