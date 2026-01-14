@@ -1982,14 +1982,7 @@
     "publisher": "Aksys Games",
     "url": "https://www.nintendo.com/us/store/products/norn9-var-commons-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Pikmin 3 Deluxe",
@@ -2097,14 +2090,7 @@
     "publisher": "Thomas K Young",
     "url": "https://www.nintendo.com/us/store/products/super-fowlst-2-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Super Smash Bros. Ultimate",
