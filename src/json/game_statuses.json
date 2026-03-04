@@ -1058,11 +1058,7 @@
     "publisher": "Soedesco",
     "url": "https://www.nintendo.com/us/store/products/remothered-tormented-fathers-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes",
@@ -1390,11 +1386,7 @@
     "publisher": "naptime.games",
     "url": "https://www.nintendo.com/us/store/products/tiny-lands-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Tokyo Xanadu eX+",
