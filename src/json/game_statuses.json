@@ -29,14 +29,25 @@
     "publisher": "Forever Entertainment",
     "url": "https://www.nintendo.com/us/store/products/a-long-way-down-switch",
     "group": "Progress issues",
-    "status": "404"
+    "__typename": "Compatibility",
+    "status": "NOT_PLAYABLE",
+    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "captionNote": null,
+    "details": []
   },
   {
     "title": "A Time Traveller's Guide To Past Delicacies",
     "publisher": "Sometimes You",
     "url": "https://www.nintendo.com/us/store/products/a-time-travellers-guide-to-past-delicacies-switch",
     "group": "Progress issues",
-    "status": "404"
+    "__typename": "Compatibility",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "captionNote": null,
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Aeon Must Die!",
@@ -68,7 +79,14 @@
     "publisher": "Feardemic",
     "url": "https://www.nintendo.com/us/store/products/afterdream-switch",
     "group": "Progress issues",
-    "status": "404"
+    "__typename": "Compatibility",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "captionNote": null,
+    "details": [
+      "Updated 06/19/2025",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Aidan In Danger",
