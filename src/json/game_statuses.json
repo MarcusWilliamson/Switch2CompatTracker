@@ -192,10 +192,13 @@
     "url": "https://www.nintendo.com/us/store/products/boot-hill-heroes-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 06/30/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Borderlands 3 Ultimate Edition",
@@ -387,10 +390,13 @@
     "url": "https://www.nintendo.com/us/store/products/fig-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 06/30/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Flan",
@@ -607,10 +613,13 @@
     "url": "https://www.nintendo.com/us/store/products/laboratory-rat-escape-simulator-pro-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 06/30/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Labyrinth of Galleria: The Moon Society",
@@ -1036,10 +1045,13 @@
     "url": "https://www.nintendo.com/us/store/products/raiden-iii-x-mikado-maniax-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 06/30/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Raiden IV x MIKADO remix",
@@ -1348,10 +1360,13 @@
     "url": "https://www.nintendo.com/us/store/products/the-wild-case-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 06/30/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "They Bleed Pixels",
@@ -1720,10 +1735,13 @@
     "url": "https://www.nintendo.com/us/store/products/ziksquare-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 06/30/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Abyss Memory Fallen Angel and the Path of Magic",
