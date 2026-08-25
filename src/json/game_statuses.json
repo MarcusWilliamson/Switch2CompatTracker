@@ -1584,13 +1584,7 @@
     "publisher": "MY.GAMES",
     "url": "https://www.nintendo.com/us/store/products/warface-clutch-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": [
-      "Update 11/04/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Warframe",
