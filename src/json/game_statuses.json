@@ -523,10 +523,13 @@
     "url": "https://www.nintendo.com/us/store/products/house-builder-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 09/10/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "In My Shadow",
@@ -873,10 +876,13 @@
     "url": "https://www.nintendo.com/us/store/products/ninja-five-o-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 09/10/2026",
+      "Previously identified issues have been resolved with an update."
+    ]
   },
   {
     "title": "Ninjala",
