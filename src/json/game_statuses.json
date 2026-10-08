@@ -340,7 +340,13 @@
     "publisher": "Digital Leisure",
     "url": "https://www.nintendo.com/us/store/products/dragons-lair-trilogy-switch",
     "group": "Progress issues",
-    "status": "404"
+    "__typename": "Compatibility",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
+    "captionNote": null,
+    "details": [
+      "Update 07/15/2025"
+    ]
   },
   {
     "title": "Dreamwalker",
