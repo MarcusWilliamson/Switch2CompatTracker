@@ -854,10 +854,13 @@
     "url": "https://www.nintendo.com/us/store/products/neverwinter-nights-enhanced-edition-switch",
     "group": "Progress issues",
     "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
+    "status": "PLAYABLE",
+    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
     "captionNote": null,
-    "details": []
+    "details": [
+      "Update 10/20/2026",
+      "Gameplay experience on Nintendo Switch\u00a02 confirmed to match experience on Nintendo\u00a0Switch."
+    ]
   },
   {
     "title": "NieR:Automata The End of YoRHa Edition",
