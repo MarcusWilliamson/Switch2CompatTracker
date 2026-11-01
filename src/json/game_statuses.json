@@ -219,212 +219,112 @@
     "publisher": "Whitethorn Games",
     "url": "https://www.nintendo.com/us/store/products/botany-manor-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 03/03/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Chickens Madness",
     "publisher": "Vikong",
     "url": "https://www.nintendo.com/us/store/products/chickens-madness-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Chronicles of 2 Heroes: Amaterasu's Wrath",
     "publisher": "Catness Game",
     "url": "https://www.nintendo.com/us/store/products/chronicles-of-2-heroes-amaterasus-wrath-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Addressed a problem with game progression as part of an update.",
-      "Game controls and explanatory text may not appear correctly in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
     "publisher": "SQUARE ENIX",
     "url": "https://www.nintendo.com/us/store/products/chrono-cross-the-radical-dreamers-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 12/02/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Clock Tower: Rewind",
     "publisher": "WayForward",
     "url": "https://www.nintendo.com/us/store/products/clock-tower-rewind-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Crash Bandicoot N. Sane Trilogy",
     "publisher": "Activision",
     "url": "https://www.nintendo.com/us/store/products/crash-bandicoot-n-sane-trilogy-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Crypt of the NecroDancer: Nintendo Switch Edition",
     "publisher": "Brace Yourself Games",
     "url": "https://www.nintendo.com/us/store/products/crypt-of-the-necrodancer-nintendo-switch-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 12/09/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Dark Nights with Poe and Munro",
     "publisher": "D'Avekki Studios",
     "url": "https://www.nintendo.com/us/store/products/dark-nights-with-poe-and-munro-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "DC Universe Online",
     "publisher": "Daybreak Game Company",
     "url": "https://www.nintendo.com/us/store/products/dc-universe-online-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Dragon's Lair Trilogy",
     "publisher": "Digital Leisure",
     "url": "https://www.nintendo.com/us/store/products/dragons-lair-trilogy-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Dreamwalker",
     "publisher": "Code Mystics",
     "url": "https://www.nintendo.com/us/store/products/dreamwalker-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Dust: An Elysian Tail",
     "publisher": "Humble Hearts",
     "url": "https://www.nintendo.com/us/store/products/dust-an-elysian-tail-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Escape from Chernobyl",
     "publisher": "Atypical Games",
     "url": "https://www.nintendo.com/us/store/products/escape-from-chernobyl-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "fig.",
     "publisher": "Take IT Studio!",
     "url": "https://www.nintendo.com/us/store/products/fig-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/30/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Flan",
     "publisher": "AnelaGamesStudio",
     "url": "https://www.nintendo.com/us/store/products/flan-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Gameplay experience on Nintendo Switch\u00a02 confirmed to match experience on Nintendo\u00a0Switch."
-    ]
+    "status": "404"
   },
   {
     "title": "Forgotten Memories",
     "publisher": "Psychose Interactive",
     "url": "https://www.nintendo.com/us/store/products/forgotten-memories-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Gang Beasts",
@@ -445,130 +345,70 @@
     "publisher": "ByteRockers Games",
     "url": "https://www.nintendo.com/us/store/products/gelly-break-deluxe-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "GRID Autosport",
     "publisher": "Codemasters",
     "url": "https://www.nintendo.com/us/store/products/grid-autosport-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "GUILTY GEAR XX ACCENT CORE PLUS R",
     "publisher": "ARC SYSTEM WORKS",
     "url": "https://www.nintendo.com/us/store/products/guilty-gear-xx-accent-core-plus-r-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 09/02/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Happy Hotel",
     "publisher": "Nyakuza Games",
     "url": "https://www.nintendo.com/us/store/products/happy-hotel-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Highrise Heroes: Word Challenge",
     "publisher": "Fallen Tree Games",
     "url": "https://www.nintendo.com/us/store/products/highrise-heroes-word-challenge-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "HITMAN 3 - Cloud Version",
     "publisher": "IO Interactive",
     "url": "https://www.nintendo.com/us/store/products/hitman-3-cloud-version-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "House Builder",
     "publisher": "Console Labs",
     "url": "https://www.nintendo.com/us/store/products/house-builder-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 09/10/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "In My Shadow",
     "publisher": "OverGamez",
     "url": "https://www.nintendo.com/us/store/products/in-my-shadow-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Inferno 2",
     "publisher": "2Awesome Studio",
     "url": "https://www.nintendo.com/us/store/products/inferno-2-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "INSTANT Chef Party",
     "publisher": "MAXIMUM ENT FRANCE",
     "url": "https://www.nintendo.com/us/store/products/instant-chef-party-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Jurassic Park Classic Games Collection",
@@ -582,238 +422,126 @@
     "publisher": "Devolver Digital",
     "url": "https://www.nintendo.com/us/store/products/karmazoo-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "KILL la KILL -IF",
     "publisher": "ARC SYSTEM WORKS",
     "url": "https://www.nintendo.com/us/store/products/kill-la-kill-if-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Killing Time: Resurrected",
     "publisher": "Nightdive Studios",
     "url": "https://www.nintendo.com/us/store/products/killing-time-resurrected-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 09/23/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Laboratory Rat Escape Simulator Pro",
     "publisher": "Clockwork Moon",
     "url": "https://www.nintendo.com/us/store/products/laboratory-rat-escape-simulator-pro-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/30/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Labyrinth of Galleria: The Moon Society",
     "publisher": "NIS America",
     "url": "https://www.nintendo.com/us/store/products/labyrinth-of-galleria-the-moon-society-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Layer Section & Galactic Attack S-Tribute",
     "publisher": "City Connection",
     "url": "https://www.nintendo.com/us/store/products/layer-section-and-galactic-attack-s-tribute-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Library Of Ruina",
     "publisher": "ARC SYSTEM WORKS",
     "url": "https://www.nintendo.com/us/store/products/library-of-ruina-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 09/30/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Malignant Survivors",
     "publisher": "Brain Connected",
     "url": "https://www.nintendo.com/us/store/products/malignant-survivors-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Manticore - Galaxy on Fire",
     "publisher": "PLAION",
     "url": "https://www.nintendo.com/us/store/products/manticore-galaxy-on-fire-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": [
-      "Update 09/23/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
     "publisher": "CAPCOM",
     "url": "https://www.nintendo.com/us/store/products/marvel-vs-capcom-fighting-collection-arcade-classics-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Mega Mall Story 2",
     "publisher": "Kairosoft",
     "url": "https://www.nintendo.com/us/store/products/mega-mall-story-2-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 12/16/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Meganoid",
     "publisher": "Orange Pixel",
     "url": "https://www.nintendo.com/us/store/products/meganoid-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Megaton Rainfall",
     "publisher": "Pentadimensional",
     "url": "https://www.nintendo.com/us/store/products/megaton-rainfall-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Mia and me - Magic Friends",
     "publisher": "TREVA",
     "url": "https://www.nintendo.com/us/store/products/mia-and-me-magic-friends-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Minigolf Adventure",
     "publisher": "Revulo Games",
     "url": "https://www.nintendo.com/us/store/products/minigolf-adventure-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "MODEL Debut3 #nicola",
     "publisher": "FURYU Corporation",
     "url": "https://www.nintendo.com/us/store/products/model-debut3-nicola-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Mortal Kombat 1",
     "publisher": "WB Games",
     "url": "https://www.nintendo.com/us/store/products/mortal-kombat-1-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "My Memory of Us",
     "publisher": "Crunching Koalas",
     "url": "https://www.nintendo.com/us/store/products/my-memory-of-us-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "NASCAR Rivals",
@@ -827,110 +555,56 @@
     "publisher": "CFK",
     "url": "https://www.nintendo.com/us/store/products/nekopara-vol-1-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "NEKOPARA Vol.2",
     "publisher": "CFK",
     "url": "https://www.nintendo.com/us/store/products/nekopara-vol-2-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Neverwinter Nights: Enhanced Edition",
     "publisher": "Beamdog",
     "url": "https://www.nintendo.com/us/store/products/neverwinter-nights-enhanced-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 10/20/2026",
-      "Gameplay experience on Nintendo Switch\u00a02 confirmed to match experience on Nintendo\u00a0Switch."
-    ]
+    "status": "404"
   },
   {
     "title": "NieR:Automata The End of YoRHa Edition",
     "publisher": "SQUARE ENIX",
     "url": "https://www.nintendo.com/us/store/products/nier-automata-the-end-of-yorha-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/25/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Ninja Five-O",
     "publisher": "KONAMI",
     "url": "https://www.nintendo.com/us/store/products/ninja-five-o-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 09/10/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Ninjala",
     "publisher": "GUNGHOONLINE",
     "url": "https://www.nintendo.com/us/store/products/ninjala-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Nobody Saves the World",
     "publisher": "DrinkBox Studios",
     "url": "https://www.nintendo.com/us/store/products/nobody-saves-the-world-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 08/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Oddworld: Stranger's Wrath",
     "publisher": "Oddworld Inhabitants",
     "url": "https://www.nintendo.com/us/store/products/oddworld-strangers-wrath-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "OK K.O.! Let's Play Heroes",
@@ -944,42 +618,21 @@
     "publisher": "34BigThings",
     "url": "https://www.nintendo.com/us/store/products/otto-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Overcooked! All You Can Eat",
     "publisher": "Team17",
     "url": "https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 05/12/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Overdriven Reloaded: Special Edition",
     "publisher": "TOMAGameStudio",
     "url": "https://www.nintendo.com/us/store/products/overdriven-reloaded-special-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/07/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Overwatch 2",
@@ -993,97 +646,49 @@
     "publisher": "Electronic Arts",
     "url": "https://www.nintendo.com/us/store/products/plants-vs-zombies-battle-for-neighborville-complete-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 10/14/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Quell Memento",
     "publisher": "Fallen Tree Games",
     "url": "https://www.nintendo.com/us/store/products/quell-memento-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Quell Zen",
     "publisher": "Fallen Tree Games",
     "url": "https://www.nintendo.com/us/store/products/quell-zen-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 03/17/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Quick Race",
     "publisher": "SOURCE BYTE",
     "url": "https://www.nintendo.com/us/store/products/quick-race-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Radiation City",
     "publisher": "Atypical Games",
     "url": "https://www.nintendo.com/us/store/products/radiation-city-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Raiden III x MIKADO MANIAX",
     "publisher": "NIS America",
     "url": "https://www.nintendo.com/us/store/products/raiden-iii-x-mikado-maniax-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/30/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Raiden IV x MIKADO remix",
     "publisher": "UFO Interactive",
     "url": "https://www.nintendo.com/us/store/products/raiden-iv-x-mikado-remix-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/16/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Remothered: Tormented Fathers",
@@ -1104,111 +709,56 @@
     "publisher": "Thunderful Games",
     "url": "https://www.nintendo.com/us/store/products/rico-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/16/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "RiffTrax: The Game",
     "publisher": "Wide Right Interactive",
     "url": "https://www.nintendo.com/us/store/products/rifftrax-the-game-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "River City Girls Zero",
     "publisher": "WayForward",
     "url": "https://www.nintendo.com/us/store/products/river-city-girls-zero-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Roller Champions",
     "publisher": "Ubisoft",
     "url": "https://www.nintendo.com/us/store/products/roller-champions-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Root Double -Before Crime * After Days- Xtend Edition",
     "publisher": "Sekai Games",
     "url": "https://www.nintendo.com/us/store/products/root-double-before-crime-after-days-xtend-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Saviors of Sapphire Wings / Stranger of Sword City Revisited",
     "publisher": "NIS America",
     "url": "https://www.nintendo.com/us/store/products/saviors-of-sapphire-wings-stranger-of-sword-city-revisited-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Secret Neighbor",
     "publisher": "tinyBuild Games",
     "url": "https://www.nintendo.com/us/store/products/secret-neighbor-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Skies Above",
     "publisher": "Flynns Arcade",
     "url": "https://www.nintendo.com/us/store/products/skies-above-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/25/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "SmileBASIC 4",
@@ -1222,92 +772,49 @@
     "publisher": "Waku Waku Games",
     "url": "https://www.nintendo.com/us/store/products/soul-dog-td-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "South of the Circle",
     "publisher": "11 bit studios",
     "url": "https://www.nintendo.com/us/store/products/south-of-the-circle-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "South Park: The Fractured but Whole - Standard Edition",
     "publisher": "Ubisoft",
     "url": "https://www.nintendo.com/us/store/products/south-park-the-fractured-but-whole-standard-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 03/17/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "STAR WARS Republic Commando",
     "publisher": "Aspyr",
     "url": "https://www.nintendo.com/us/store/products/star-wars-republic-commando-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 12/16/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "STAR WARS: Knights of the Old Republic II: The Sith Lords",
     "publisher": "Aspyr",
     "url": "https://www.nintendo.com/us/store/products/star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 10/14/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Stranded Sails - Explorers of the Cursed Islands",
     "publisher": "Rokaplay",
     "url": "https://www.nintendo.com/us/store/products/stranded-sails-explorers-of-the-cursed-islands-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Strania -The Stella Machina- EX",
     "publisher": "G.rev",
     "url": "https://www.nintendo.com/us/store/products/strania-the-stella-machina-ex-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/16/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Stumble Guys",
@@ -1328,95 +835,49 @@
     "publisher": "Electronic Arts",
     "url": "https://www.nintendo.com/us/store/products/super-mega-baseball-4-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/25/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "The Final Station",
     "publisher": "tinyBuild Games",
     "url": "https://www.nintendo.com/us/store/products/the-final-station-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "The Mean Greens - Plastic Warfare",
     "publisher": "Virtual Basement",
     "url": "https://www.nintendo.com/us/store/products/the-mean-greens-plastic-warfare-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "The Wild Case",
     "publisher": "Maxim Ryadchik",
     "url": "https://www.nintendo.com/us/store/products/the-wild-case-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/30/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "They Bleed Pixels",
     "publisher": "Spooky Squid Games Incorporated",
     "url": "https://www.nintendo.com/us/store/products/they-bleed-pixels-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "This War of Mine: Complete Edition",
     "publisher": "11 bit studios",
     "url": "https://www.nintendo.com/us/store/products/this-war-of-mine-complete-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Timespinner",
     "publisher": "Lunar Ray Games",
     "url": "https://www.nintendo.com/us/store/products/timespinner-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 08/05/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Tiny Lands",
@@ -1430,106 +891,56 @@
     "publisher": "Aksys Games",
     "url": "https://www.nintendo.com/us/store/products/tokyo-xanadu-ex-plus-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Tomba! Special Edition",
     "publisher": "Limited Run Games",
     "url": "https://www.nintendo.com/us/store/products/tomba-special-edition-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Tony Hawk's Pro Skater 1 + 2",
     "publisher": "Activision",
     "url": "https://www.nintendo.com/us/store/products/tony-hawks-pro-skater-1-plus-2-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Touhou Genso Wanderer Reloaded",
     "publisher": "NIS America",
     "url": "https://www.nintendo.com/us/store/products/touhou-genso-wanderer-reloaded-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Touhou Gouyoku Ibun ~ Sunken Fossil World.",
     "publisher": "Phoenixx",
     "url": "https://www.nintendo.com/us/store/products/touhou-gouyoku-ibun-sunken-fossil-world-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Trenga Unlimited",
     "publisher": "Flux Games",
     "url": "https://www.nintendo.com/us/store/products/trenga-unlimited-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Trip World DX",
     "publisher": "SUNSOFT",
     "url": "https://www.nintendo.com/us/store/products/trip-world-dx-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Trove",
     "publisher": "gamigo US",
     "url": "https://www.nintendo.com/us/store/products/trove-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Trover Saves the Universe",
@@ -1543,39 +954,21 @@
     "publisher": "Nacon",
     "url": "https://www.nintendo.com/us/store/products/tt-isle-of-man-ride-on-the-edge-3-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "TY the Tasmanian Tiger HD",
     "publisher": "Krome Studios",
     "url": "https://www.nintendo.com/us/store/products/ty-the-tasmanian-tiger-hd-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 09/02/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Uncle Chop's Rocket Shop",
     "publisher": "Kasedo Games",
     "url": "https://www.nintendo.com/us/store/products/uncle-chops-rocket-shop-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Warface: Clutch",
@@ -1589,454 +982,238 @@
     "publisher": "Digital Extremes",
     "url": "https://www.nintendo.com/us/store/products/warframe-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_COMPATIBLE",
-    "caption": "Incompatible.",
-    "captionNote": null,
-    "details": [
-      "Update 04/28/2026"
-    ]
+    "status": "404"
   },
   {
     "title": "Warp Shift",
     "publisher": "Kyrkudden",
     "url": "https://www.nintendo.com/us/store/products/warp-shift-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "WARRIORS: Abyss",
     "publisher": "KOEI TECMO AMERICA",
     "url": "https://www.nintendo.com/us/store/products/warriors-abyss-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "What the Dub?!",
     "publisher": "Wide Right Interactive",
     "url": "https://www.nintendo.com/us/store/products/what-the-dub-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/02/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Where the Bees Make Honey",
     "publisher": "Whitethorn Games",
     "url": "https://www.nintendo.com/us/store/products/where-the-bees-make-honey-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "Wild Seas",
     "publisher": "Afil Games",
     "url": "https://www.nintendo.com/us/store/products/wild-seas-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Wildfire",
     "publisher": "Humble Games",
     "url": "https://www.nintendo.com/us/store/products/wildfire-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "WRC 8 FIA World Rally Championship",
     "publisher": "Nacon",
     "url": "https://www.nintendo.com/us/store/products/wrc-8-fia-world-rally-championship-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "WRC 9 The Official Game",
     "publisher": "Nacon",
     "url": "https://www.nintendo.com/us/store/products/wrc-9-the-official-game-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Yomawari: Lost in the Dark",
     "publisher": "NIS America",
     "url": "https://www.nintendo.com/us/store/products/yomawari-lost-in-the-dark-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "YouTube",
     "publisher": "Google",
     "url": "https://www.nintendo.com/us/store/products/youtube-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "NOT_PLAYABLE",
-    "caption": "Unsupported \u2013 Problems with game progression have been found.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "ZikSquare",
     "publisher": "TOMAGameStudio",
     "url": "https://www.nintendo.com/us/store/products/ziksquare-switch",
     "group": "Progress issues",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/30/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Abyss Memory Fallen Angel and the Path of Magic",
     "publisher": "Byking",
     "url": "https://www.nintendo.com/us/store/products/abyss-memory-fallen-angel-and-the-path-of-magic-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Beyond Enemy Lines - Remastered Edition",
     "publisher": "Polygon Art",
     "url": "https://www.nintendo.com/us/store/products/beyond-enemy-lines-remastered-edition-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience graphics problems in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "Capcom Fighting Collection 2",
     "publisher": "CAPCOM",
     "url": "https://www.nintendo.com/us/store/products/capcom-fighting-collection-2-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Car Detailing Simulator",
     "publisher": "Ultimate Games",
     "url": "https://www.nintendo.com/us/store/products/car-detailing-simulator-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Dadish",
     "publisher": "Thomas K Young",
     "url": "https://www.nintendo.com/us/store/products/dadish-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 03/17/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Dairoku: Agents of Sakuratani",
     "publisher": "Aksys Games",
     "url": "https://www.nintendo.com/us/store/products/dairoku-agents-of-sakuratani-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Everyday Today's MENU for EMIYA Family",
     "publisher": "Aniplex",
     "url": "https://www.nintendo.com/us/store/products/everyday-todays-menu-for-emiya-family-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience graphics problems in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "Genso Manege",
     "publisher": "PQube",
     "url": "https://www.nintendo.com/us/store/products/genso-manege-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Giana Sisters: Twisted Dreams - Owltimate Edition",
     "publisher": "HandyGames",
     "url": "https://www.nintendo.com/us/store/products/giana-sisters-twisted-dreams-owltimate-edition-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience graphics problems in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "Go Vacation",
     "publisher": "Nintendo",
     "url": "https://www.nintendo.com/us/store/products/go-vacation-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/14/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Godlike Burger",
     "publisher": "Daedalic Entertainment",
     "url": "https://www.nintendo.com/us/store/products/godlike-burger-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Guardian Tales",
     "publisher": "Kong Studios",
     "url": "https://www.nintendo.com/us/store/products/guardian-tales-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/25/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Kero Blaster",
     "publisher": "PLAYSIM",
     "url": "https://www.nintendo.com/us/store/products/kero-blaster-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience graphics problems in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "LAYTON'S MYSTERY JOURNEY: Katrielle and the Millionaires' Conspiracy - Deluxe Edition",
     "publisher": "LEVEL5",
     "url": "https://www.nintendo.com/us/store/products/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": []
+    "status": "404"
   },
   {
     "title": "LIMBO",
     "publisher": "Playdead",
     "url": "https://www.nintendo.com/us/store/products/limbo-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 03/17/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "MotoGP 21",
     "publisher": "Milestone",
     "url": "https://www.nintendo.com/us/store/products/motogp-21-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience slowdown in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "MotoGP 22",
     "publisher": "Milestone",
     "url": "https://www.nintendo.com/us/store/products/motogp-22-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience slowdown in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "MotoGP 23",
     "publisher": "Milestone",
     "url": "https://www.nintendo.com/us/store/products/motogp-23-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience slowdown in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "Nintendo Switch Sports",
     "publisher": "Nintendo",
     "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Norn9: Var Commons",
     "publisher": "Aksys Games",
     "url": "https://www.nintendo.com/us/store/products/norn9-var-commons-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Pikmin 3 Deluxe",
     "publisher": "Nintendo",
     "url": "https://www.nintendo.com/us/store/products/pikmin-3-deluxe-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Redemption Reapers",
     "publisher": "Binary Haze Interactive",
     "url": "https://www.nintendo.com/us/store/products/redemption-reapers-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   },
   {
     "title": "Retro Classix 2-in-1 Pack: Express Raider & Shootout",
@@ -2064,128 +1241,69 @@
     "publisher": "Baltoro Games",
     "url": "https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 11/11/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Skateboard Drifting with Maxwell Cat: The Game Simulator",
     "publisher": "GAMETOTOP.CC",
     "url": "https://www.nintendo.com/us/store/products/skateboard-drifting-with-maxwell-cat-the-game-simulator-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 06/16/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Sportitions'24",
     "publisher": "FuriouSoftPhoenix",
     "url": "https://www.nintendo.com/us/store/products/sportitions24-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience graphics problems in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "Street Fighter 30th Anniversary Collection",
     "publisher": "CAPCOM",
     "url": "https://www.nintendo.com/us/store/products/street-fighter-30th-anniversary-collection-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "When playing against a Nintendo Switch\u00a02 user online, texture problems may appear on the Nintendo Switch user's player character."
-    ]
+    "status": "404"
   },
   {
     "title": "Super Fowlst 2",
     "publisher": "Thomas K Young",
     "url": "https://www.nintendo.com/us/store/products/super-fowlst-2-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/19/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Super Smash Bros. Ultimate",
     "publisher": "Nintendo",
     "url": "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Updated 06/26/2025",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Tomb Raider I-III Remastered Starring Lara Croft",
     "publisher": "Aspyr",
     "url": "https://www.nintendo.com/us/store/products/tomb-raider-i-iii-remastered-starring-lara-croft-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 03/24/2026",
-      "Previously identified issues have been resolved with an update."
-    ]
+    "status": "404"
   },
   {
     "title": "Trials Rising Standard Edition",
     "publisher": "Ubisoft",
     "url": "https://www.nintendo.com/us/store/products/trials-rising-standard-edition-switch",
     "group": "Updated",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior may vary from Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Users may experience slowdown in some areas."
-    ]
+    "status": "404"
   },
   {
     "title": "Portal: Companion Collection",
     "publisher": "Valve",
     "url": "https://www.nintendo.com/us/store/products/portal-companion-collection-switch",
     "group": "Custom",
-    "status": "info_missing"
+    "status": "404"
   },
   {
     "title": "Portal 2",
     "publisher": "Valve",
     "url": "https://www.nintendo.com/us/store/products/portal-2-switch",
     "group": "Custom",
-    "__typename": "Compatibility",
-    "status": "PLAYABLE",
-    "caption": "Supported \u2013 Game behavior is consistent with Nintendo Switch.",
-    "captionNote": null,
-    "details": [
-      "Update 07/15/2025"
-    ]
+    "status": "404"
   }
 ]
